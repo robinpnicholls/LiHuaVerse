@@ -1,0 +1,1079 @@
+question,answer,evidence,type
+Did Adam Smith send a message to Li Hua about the upcoming building maintenance schedule before the administrators announced a temporary change in the construction schedule due to weather conditions?,Yes,"['20260121_1000', '20260701_1000']",Multi
+"Did Wolfgang ask Li Hua about watching ""Star Wars: A New Hope"" after he asked Li Hua about going to see ""Overwatch 3""?",Yes,"['20260121_1300', '20261009_1700']",Multi
+Did Li Hua agree to go out for dinner after Wolfgang first asked him if he wanted to go out for dinner?,Yes,"['20260123_1700', '20260930_1600']",Multi
+Did Li Hua send a message to Jennifer thanking her for the new training schedule before he requested a change in his training schedule for Thursday?,Yes,"['20260204_1500', '20260204_1600', '20260211_1900']",Multi
+Did Li Hua ask Jennifer for advice on how to prevent muscle soreness after an intense workout session before he told her that he feels soreness in his arm muscles after the workout this week?,Yes,"['20260206_1600', '20260811_1100', '20261008_1400', '20261211_1100']",Multi
+Did Li Hua send a message to Jennifer asking for her opinion on protein supplements before he consulted her about his daily protein powder consumption?,Yes,"['20260214_1600', '20261120_2000']",Multi
+"Did Yuriko ask Li Hua for help with her studio's homepage before she booked a seat at the ""Central Perk"" cafe?",Yes,"['20260223_1500', '20260225_1500']",Multi
+Did Li Hua discuss his progress with the fitness plan before he shared a blog post about his recent fitness achievements?,Yes,"['20260305_1700', '20260325_1900', '20260610_1600', '20260630_1800', '20260708_1400', '20260817_1215', '20261022_2200', '20261202_1400']",Multi
+Did Li Hua send a message to Jennifer asking if he can turn the Thursday class to Friday after he requested a change in his training schedule for Thursday?,Yes,"['20260211_1900', '20260309_1200']",Multi
+Did Li Hua ask Yuriko to play music together before Wolfgang proposed to pause playing musical instruments?,Yes,"['20260318_1510', '20260416_2100']",Multi
+"Did Wolfgang Schulz recommend the band learns ""Viva la Vida"" by Coldplay after he and Li Hua discussed what song to play this Sunday?",Yes,"['20260318_1530', '20260625_1900']",Multi
+Did Wolfgang's promotion announcement occur before he invited Li Hua for dinner on 20260430?,Yes,"['20260428_1830', '20260930_1600']",Multi
+Did Turalyon announce the construction updates and feedback from residents after Illidan Stormrage complained about the construction noise?,Yes,"['20260526_1540', '20260527_1000', '20260528_1500']",Multi
+Did Hailey announce the new line of high-protein breads before inviting Li Hua to the special bakery event?,Yes,"['20260611_1245', '20260622_1330']",Multi
+Did Chae tell Li Hua that taking a warm shower before sleeping can improve the sleep quality before sharing the neuroscience article with her?,No,"['20260711_1100', '20260926_1030']",Multi
+Did Li Hua ask Jennifer Moore for book recommendations on fitness nutrition before she announced the special guest speaker at the gym?,No,"['20260713_1930', '20260817_1215', '20260831_1900']",Multi
+Did Jennifer remind Li Hua about proper nutrition and hydration before Jake shared his tips for staying hydrated during the match?,Yes,"['20260804_1400', '20261001_1800']",Multi
+Did the group members talk about their favorite characters in the TV series Game of Thrones after Emily started a vote on the most hateable character?,Yes,"['20260902_1600', '20260915_1200']",Multi
+Question: Did Jennifer remind Li Hua to consume enough protein after the workout before she shared tips with the group members on common mistakes to avoid after an intense workout?,Answer: Yes,"['20260919_1000', '20261101_1100']",Multi
+Did Li Hua ask Thane about his opinion on The Last of Us before he asked about Sekiro: Shadows Die Twice?,No,"['20261001_2000', '20261228_1400']",Multi
+Did Jake Watson and Li Hua discuss the classic matches between FC Barcelona and FC Bayern Munich before the group members discussed the classic matches between FC Barcelona and Real Madrid?,Yes,"['20261005_1005', '20261026_1600']",Multi
+Did the group members debate about the best football manager in the Premier League history after they debated if Pep Guardiola is the greatest soccer manager in football history?,Yes,"['20261006_1000', '20261110_1000']",Multi
+Did the discussion about Jaime Lannister's character occur after the discussion about Cersei Lannister's character?,Yes,"['20261010_1010', '20261026_2000']",Multi
+Did Wolfgang ask Li Hua if she wants to have pizza for dinner after work today before he wondered if she wanted to have Sichuan hot pot for dinner tonight?,No,"['20260930_1600', '20261015_1500']",Multi
+Did Jennifer challenge Li Hua to do 60 pull-ups in a training session after she challenged him to do 100 pushups?,Yes,"['20261104_1800', '20261129_1900']",Multi
+Did Jake share common knowledge about offside in soccer with Li Hua before he passed practical techniques to Li Hua on how to avoid offside for a forward?,Yes,"['20261105_1500', '20261130_1130']",Multi
+Did Wolfgang arrive in Hong Kong after he informed Li Hua about his upcoming trip?,Yes,"['20261219_1900', '20261223_2300']",Multi
+"What time does Li Hua watch the movie ""Overwatch 3""?",20260122,"['20260122_1700', '20260121_1300']",Multi
+"Who does Li Hua go to watch the movie ""Overwatch 3"" with?",Wolfgang,"['20260122_1700', '20260121_1300']",Multi
+Has Wolfgang ever been to Hong Kong?,Yes,"['20261219_1900', '20261220_2000', '20261221_1200', '20261228_1000']",Multi
+Who knows about Wolfgang going to Hong Kong?,LiHua & Chae & Yuriko,"['20261219_1900', '20261220_2000', '20261221_1200', '20261228_1000']",Multi
+Who wished Li Hua a happy Lunar New Year?,Adam Smith & Jennifer Moore & Wolfgang Schulz,"['20260119_1130', '20260119_1430', '20260119_0930']",Multi
+Who introduced the bread delivery service and recommend Alice for the delivery?,HaileyJohnson,"['20260318_1500', '20260329_1300']",Multi
+What is the opportunity that makes Wolfgang and Yuriko acquaitances?,LiHua introduce them to each other by saying that they can play music together every Sunday,"['20260318_1510', '20260319_1600']",Multi
+What was the content of the first-ever delivery from Hailey to LiHua and what was LiHua's opinion about it?,a fresh sourdough loaf and a bottle of milk and LiHua praises Hailey's bread and milk,"['20260317_0800', '20260318_1500']",Multi
+What opportunity did LiHua create for Chae to meet Wolfgang and Yuriko?,LiHua introduced Chae to Wolfgang and Yuriko during the band's gathering on Sunday evening,"['20260425_2100', '20260425_2330']",Multi
+What special offerings did Hailey have for her backery shop in the month of May?,a special Mother's Day bakery promotion & a special summer promotion on ice cream & a free baking class at the end of May & banana durian cheesecake,"['20260508_0800', '20260514_1400', '20260527_1600', '20260531_2000']",Multi
+What feedbacks does Hailey ask from LiHua in July?,feedback on the bread delivery service & customer feedback on a new line of artisanal donuts,"['20260710_0830', '20260712_1600']",Multi
+How long does it take in total from LiHua planning on getting the air-conditioner to the air-conditioner been installed?,about 27 days,"['20260716_1000', '20260812_1100']",Multi
+Did it take more than 3 weeks from LiHua planning on getting the air-conditioner to the air-conditioner been actually installed?,Yes,"['20260716_1000', '20260812_1100']",Multi
+Did it take more than a week from Adam asking LiHua about the ideal installation date to Adam reminding LiHua about the contractor team installing air-conditioner at 18:00?,Yes,"['20260803_1300', '20260812_1100']",Multi
+Who does LiHua want to invite to the photo exhibition and who goes with him (during August)?,Wolfgang,"['20260801_1900', '20260805_1600']",Multi
+Is the time interval between LiHua asking JakeWatson to help him with dribbling skills and Li Hua asking the group about classic must-watch UCL matches more than 2 days (restrict your search within August)?,Yes,"['20260819_1000', '20260821_1500']",Multi
+Is the time interval more than 3 days between LiHua asking Adam to help him install a curtain on the basement window and Adam asking LiHua to measure the size of the window?,Yes,"['20260921_1600', '20260928_1000']",Multi
+Is the time interval more than 7 days between Adam asking LiHua to measure the size of the window and Adam informing Li Hua that he has booked the curtain of the right size?,Yes,"['20260928_1000', '20261007_1200']",Multi
+Is the time interval more than 3 days between LiHua confirming that he has received the curtain and Adam asking LiHua if the curtain is all good?,Yes,"['20261012_1000', '20261019_2000']",Multi
+Is the time interval more than 3 days between LiHua first asking Adam if he can buy a small fridge for the basement and Adam asking LiHua about the size of the fridge?,Yes,"['20261110_1100', '20261116_1600']",Multi
+Is the time interval more than 7 days between Adam asking LiHua about the size of the fridge and Adam informing LiHua that the fridge will be delivered at 4pm next day?,Yes,"['20261116_1600', '20261123_2300']",Multi
+Wolfgang suddenly becomes very concerned about good body shape and healthy food choices in December. What are the two conversations he had with LiHua in December that reflect this?,20261202_14:00 & 20261209_19:00,"['20261202_1400', '20261209_1900']",Multi
+Did Li Hua agree to have dinner with Wolfgang after he told Wolfgang about the lunch arrangement?,Yes,"['20260105_1100', '20260930_1600']",Multi
+Did Li Hua ask Wolfgang Schulz for a recommendation on a gym or fitness center before asking Jennifer Moore for book recommendations on fitness nutrition?,Yes,"['20260111_0800', '20260831_1900']",Multi
+Did Li Hua ask Wolfgang Schulz if he wants to go to the gym together before Jennifer reminded Li Hua to participate in the gym's membership feedback activity?,Yes,"['20260112_1000', '20260605_1100']",Multi
+Did Li Hua send a message to Wolfgang Schulz saying that he has prepared all the delicious food for tonight's Chinese Lunar New Year before Wolfgang sent a message to Li Hua wishing him a happy Lunar New Year?,Yes,"['20260113_1100', '20260118_1200', '20260119_1130', '20260119_1430', '20260119_0930']",Multi
+Did Li Hua provide feedback to Jennifer Moore on his new meal plan before he asked her for advice on a healthy meal plan?,No,"['20260115_1645', '20260122_1500']",Multi
+Did Li Hua's complaint about the customer who modifies their requirements occur before Wolfgang comforted him?,No,"['20260123_1730', '20260131_1400']",Multi
+Did Adam Smith send Li Hua a reminder about the upcoming rent due date before Li Hua sent a message about having already transferred the rent on 20260301?,Yes,"['20260127_2030', '20260227_1830', '20260301_1000', '20260330_1800', '20260331_1700', '20260429_1700', '20260429_1800']",Multi
+Did Li Hua share a blog post about his recent fitness achievements after Jennifer sent him a motivational message?,Yes,"['20260520_1800', '20260606_0900', '20260817_1215', '20261022_2200', '20261202_1400']",Multi
+Did Li Hua send a follow-up message to Jennifer before she asked him about his latest sleeping schedule?,Yes,"['20260205_1300', '20260725_1000']",Multi
+Did Li Hua ask Adam Smith about placing potted plants in the basement before he asked about decorating the basement?,No,"['20260219_2000', '20261214_1400']",Multi
+Did Li Hua ask Wolfgang for advice on renovating the basement before he invited Adam Smith to check the progress of the basement renovation?,Yes,"['20260219_2010', '20260223_1700', '20260707_1600']",Multi
+Did Li Hua tell Wolfgang about making a new friend before Yuriko reminded the group members to meet for the music festival?,Yes,"['20260302_1800', '20260318_1427', '20261212_1200']",Multi
+"Did Yuriko tell Li Hua about booking a seat at the ""Central Perk"" cafe before Li Hua sent her a message to confirm the details of their next meeting?",Yes,"['20260225_1500', '20260303_0930']",Multi
+What time does Li Hua check in with Adam about moving in?,5:30 PM,['20260105_1400'],Single
+When was the first time Li Hua had dinner with Wolfgang this year?,20260108,['20260108_1100'],Single
+Where was the first time Li Hua had dinner with Wolfgang this year?,the cozy café downtown,['20260108_1100'],Single
+What time is Li Hua's lunch with Wolfgang Schulz at the cozy café downtown?,20260108,['20260108_1100'],Single
+What is the Wi-Fi password at Li Hua's house?,Family123,['20260106_0900'],Single
+What does Adam say about having friends over?,having friends over occasionally is fine,['20260106_0900'],Single
+What house rule does Adam mention?,keep noise to a minimum during late hours,['20260106_0900'],Single
+What does Li Hua report to Adam on January 6th?,the water tab in the apartment is broken,['20260106_1300'],Single
+When does Adam confirm the plumber will arrive?,tomorrow at 10 AM,['20260106_1500'],Single
+What does Li Hua ask Adam about the door hinge?,a small repair,['20260107_1500'],Single
+What is the name of the gym that Wolfgang recommended LiHua to go to?,FitZone,['20260111_0800'],Single
+When does Li Hua ask Jennifer Moore about adjusting the protein in her meal plan?,20260122,"['20260122_1500', '20260122_1500']",Multi
+"What time does Li Hua watch the movie ""Overwatch 3""?",20260122,"['20260122_1700', '20260121_1300']",Multi
+"Who does Li Hua go to watch the movie ""Overwatch 3"" with?",Wolfgang,"['20260122_1700', '20260121_1300']",Multi
+When does Li Hua plan to celebrate Chinese Lunar New Year?,20260118,['20260113_1100'],Single
+What does Li Hua plan to celebrate Chinese Lunar New Year?,dumplings,['20260113_1100'],Single
+Who does Li Hua plan to celebrate Chinese Lunar New Year with?,Wolfgang,['20260113_1100'],Single
+Li Hua accidentally broke a light fixture once. What did Adam say about the light fixture?,I'll arrange for a professional to take a look,['20260108_1900'],Single
+Li Hua has a difficult client. When did he solve that client's project?,20260209,"['20260123_1730', '20260209_2100']",Multi
+When did Li Hua express frustration about a client changing requirements?,20260131_14:00,['20260131_1400'],Single
+Who suggested Li Hua keep a clear log of all the changes requested by the client?,Wolfgang Schulz,['20260131_1400'],Single
+What did Wolfgang Schulz suggest Li Hua to do when Li Hua face a difficult client?,keep a clear log of all the changes requested by the client,['20260131_1400'],Single
+What does Li Hua plan to do to clear their head?,go for a walk and find a new café,['20260131_1400'],Single
+What is the name of the café Wolfgang Schulz recommends to Li Hua?,The Java Spot,['20260131_1400'],Single
+Can Li Hua hang his artworks on the wall?,Yes,['20260201_2000'],Single
+What does Adam Smith suggest Li Hua use to hang artwork without damaging the walls?,use removable hooks,['20260201_2000'],Single
+How many times does Li Hua train per week now?,2,['20260204_1500 '],Single
+When did Li Hua change the training plan?,20260204,['20260204_1500'],Single
+What days does Li Hua takes for the training sessions?,Tuesdays and Thursdays,['20260204_1500'],Single
+When did Li Hua ask Jennifer Moore for tips on dealing with muscle soreness?,20260206_16:00,['20260206_1600'],Single
+What are some of Jennifer Moore's tips for dealing with muscle soreness?,hydration&active recovery&stretching&foam rolling&rest,['20260206_1600'],Single
+Why did Li Hua ask for extra exercises to do at home?,to complement his training schedule,['20260205_1300'],Single
+What exercises did Jennifer Moore suggest Li Hua do at home?,bodyweight squats& plank holds&push-ups&lunges&glute bridges,['20260205_1300'],Single
+What is Adam Smith's condition for Li Hua to add decorations to the basement?,must be reversible and not damage anything,['20260219_2000'],Single
+When was the first time Wolfgang went to Li Hua's basement?,20260221,['20260221_1500'],Single
+What ideas did Wolfgang Schulz suggest for Li Hua's basement practice spot?,good lighting&soundproofing&a comfy chair,['20260219_2010'],Single
+Why did Adam remind Li Hua not to play guitar late at night?,a few neighbors have mentioned they're hearing guitar music late at night,['20260216_1000'],Single
+What type of ambiance does YurikoYamamoto want for her studio's homepage?,more welcoming and engaging,['20260223_1500'],Single
+When did Li Hua invite Adam Smith to check the basement renovation progress?,20260223_19:00,['20260223_1700'],Single
+What is the name of the café where Li Hua and YurikoYamamoto first meeting to talk about Yuriko's website?,Central Perk,['20260225_1500'],Single
+What is the essence of YurikoYamamoto Li Hua is helping with her homepage?,speech therapy,['20260223_1500'],Single
+What type of instrument does Li Hua play in the basement?,guitar,['20260223_1700'],Single
+When did Adam Smith inform Li Hua about potential issues with the pipes in the basement?,20260301_13:00,['20260301_1300'],Single
+When did Li Hua inform Adam Smith that the rent was transferred?,20260301_10:00,['20260301_1000'],Single
+When is the music concert that Wolfgang invites Li Hua to?,20260307_18:00,['20260302_1800'],Single
+What dish does Li Hua agree to bring to the neighborhood potluck dinner?,Homemade pasta salad,['20260302_1845'],Single
+Who is Li Hua meeting with to discuss homepage design updates?,Yuriko Yamamoto,['20260303_0930'],Single
+What new feature does Yuriko Yamamoto consider adding to her studio's homepage?,A blog section,['20260307_1300'],Single
+What time is the power outage in the neighborhood?,2 PM to 3 PM,['20260307_1445'],Single
+What suggestions does Li Hua give for promoting the new scheduling feature?,Showcase it on social media platforms and include a short tutorial and send out a newsletter to clients,['20260311_1430'],Single
+Who invites Li Hua to join the community bake sale?,Adam Smith,['20260312_1230'],Single
+What day and time is the community bake sale taking place?,Sunday at 3 PM,['20260312_1230'],Single
+When does Li Hua request a delivery from Hailey Johnson?,Tuesday,['20260314_1700'],Single
+What is the address where Li Hua wants the bread delivery to be made?,123 Sunny Street,['20260314_1700'],Single
+What service does Hailey Johnson offer to Li Hua?,Doorstep delivery service for fresh milk and bread,['20260314_1700'],Single
+What time does Hailey Johnson start baking?,4 AM,['20260317_0800'],Single
+Where does Li Hua plan to meet Yuriko Yamamoto to show the final website?,Central Perk café,['20260317_1530'],Single
+What does Li Hua suggest to Hailey regarding the frequency of bread delivery?,Twice a week on Mondays and Fridays at 8am,['20260318_1500'],Single
+What does Li Hua agree to bring to the bonfire singing party hosted by Chae Song-hwa?,Li Hua will bring his guitar,['20260320_1800'],Single
+What is the focus of Li Hua's next month's fitness plan according to Jennifer?,Strengthening lower limbs,['20260325_1900'],Single
+What is the building's policy that Adam reminds Li Hua about?,Recycling policy,['20260328_1500'],Single
+What is the topic of the online tutorial Yuriko shares with the group?,Advanced drum techniques,['20260329_1000'],Single
+What is Wolfgang looking for in his new drums?,Something versatile that sounds good for both rock and softer tunes like The Beatles,['20260326_1600'],Single
+What song does Li Hua suggest for the jam session on 20260405?,Viva la Vida,['20260405_1000'],Single
+What does Li Hua think about the rosemary focaccia?,Li Hua thinks the rosemary focaccia is amazing,['20260331_1400'],Single
+When does Li Hua confirm the rent transfer to Adam?,20260331_17:00,['20260331_1700'],Single
+What joke does Wolfgang make as an April Fool's joke?,That Wolfgang bought a set of expensive drums,['20260401_1500'],Single
+Who is delivering the bread to Li Hua on 20260403?,Alice,['20260403_0800'],Single
+What does Li Hua think about improvisation during the jam session?,Improvisation sounds great,['20260402_1900'],Single
+When is ChaeSong-hwa hosting the community medical knowledge lecture?,7 PM on Saturday,['20260407_1900'],Single
+What topics will be covered in the community medical knowledge lecture?,Basics of common health issues and how to prevent them,['20260407_1900'],Single
+What new song does the Jolly band decide to work on for the jam session according to their discussion on 20260410?,Stand By Me,['20260410_1100'],Single
+What is Li Hua's feedback on Chae Song-hwa's medical knowledge lecture?,It is insightful and makes complex topics easy to understand,['20260411_2100'],Single
+When is the anniversary event of Hailey Johnson's bakery shop?,April 15 to 17,['20260413_2100'],Single
+What does Li Hua want to have on Hailey's bakery shop anniversary event?,Sourdough and sweet pastries,['20260413_2100'],Single
+Why does Li Hua ask ChaeSong-hwa about whether neurosurgeons actually use test tubes in their work?,Li Hua is trying to get some insights for a website design,['20260414_1600'],Single
+Who proposes that the band takes a break from jamming this week?,Wolfgang Schulz,['20260416_2100'],Single
+What suggestions does Li Hua propose to Adam Smith about the upcoming community garden renovation?,Add more seating areas for people to relax and enjoy the space and some flower beds with native plants,['20260417_1100'],Single
+What kinds of flowers does Li Hua recommend to Adam Smith for the flower beds?,Lavender and coneflowers and fresh herbs,['20260417_1100'],Single
+What will be a gift for Li Hua if he chooses to renew the fitness contract with Jennifer Moore?,A cool fitness bag as a gift for all the gym activities,['20260420_2100'],Single
+When is the karaoke activity organized by ChaeSong-hwa?,Saturday at 7 PM,['20260421_1600'],Single
+Who is Li Hua bringing to the band's jam session according to their discussion on 20260425?,ChaeSong-hwa,['20260425_2100'],Single
+What garden-related activity is Thrall planning to organize?,A community planting day,['20260426_1330'],Single
+What is the proposed solution for making the garden more inviting on sunny days?,Adding shade with umbrellas or trees,['20260427_1030'],Single
+What is the main topic of the conversation on 2026-04-28 at 5 PM?,Breathing techniques and tips for squats during workouts,['20260428_1700'],Single
+When is Wolfgang Schulz's promotion celebration dinner?,6 PM on the day after tomorrow (implied to be 2026-04-30),['20260428_1830'],Single
+What is the name of the Italian restaurant where Wolfgang and Li Hua are having dinner to celebrate Wolfgang's promotion?,Venedia Grancaffe,['20260430_1700'],Single
+What is Li Hua's suggestion for scheduling the water pipe repairs in the garden?,During off-peak hours,['20260501_1600'],Single
+When is the community meeting for the garden project scheduled according to the discussion on 20260507?,Saturday at 10 am,['20260507_1600'],Single
+What percentage discount is Hailey Johnson offering for Mother's Day pastries?,15%,['20260508_0800'],Single
+Which two specific pastries does Hailey Johnson recommend for Mother's Day?,Raspberry-filled croissants and chocolate eclairs,['20260508_0800'],Single
+What type of stretches does JenniferMoore suggest before and after workouts?,Dynamic stretches before and static stretches after,['20260510_1130'],Single
+When is the web design seminar at Wolfgang's company happening?,Thursday at 3 PM,['20260511_1100'],Single
+What is Li Hua looking forward to trying from the summer promotion?,Fruity ice cream flavors and a mango-coconut pastry,['20260514_1400'],Single
+What did Li Hua enjoy the most about the restaurant that he and Wolfgang visited for dinner on 20260514?,The pasta dish and the dessert,['20260514_2200'],Single
+Why is Chae Song-hwa unable to join the rehearsal?,She has to attend a medical lecture,['20260515_1000'],Single
+What type of lighting is preferred for the seating area in the community garden?,Soft white lights,['20260516_1000'],Single
+When is the construction of the garden supposed to start?,This Wednesday (20260520),['20260518_1000'],Single
+Which flowers does RexxarRemar suggest for a vibrant vibe?,Bluebell and Camellia and Tulip,['20260518_1000'],Single
+How does RexxarRemar plan to spend time in the garden once it's done?,For family gatherings and relaxing afternoons,['20260518_1000'],Single
+What does LiHua find as a perfect place to work in his conversation with Chae?,The Lighthouse Cafe,['20260521_1500'],Single
+What songs does Chae propose to the Jolly band to try out on Sunday according to the conversation on 20260521?,"The Yellow Wind Rises and ""To the West""",['20260521_2000'],Single
+What is IllidanStormrage's suggestion to the ongoing garden construction according to the discussion on 20260522?,plan some quiet hours when the kids are playing,['20260522_2000'],Single
+What songs does LiHua suggest adding to the karaoke playlist in his conversation with Chae?,"I Will Survive and ""Sweet Caroline""",['20260525_1500'],Single
+What time does Turalyon plan to limit noisy activities?,From 2-3 pm,['20260527_1000'],Single
+Why does WolfgangSchulz inquire of the band members about health products?,Wolfgang is feeling very tired lately with the overtime and wants to boost up his energy,['20260527_2300'],Single
+What is the name of the song LiHua suggests revisiting for the band's music session according to their conversation on 20260529?,The History of Everything,['20260529_1700'],Single
+Which kind of pastry does Li Hua express his interest in trying in his conversation with Hailey on 20260531?,the new banana durian cheesecake,['20260531_2000'],Single
+When did Li Hua inform Adam Smith that the rent for last month (implied to be May) had been transferred?,2026-06-02 at 10:00,['20260602_1000'],Single
+What is the name of Hailey Johnson's new weekly flavor cheese?,Hazelnut Basque Roasted Cheese,['20260603_0945'],Single
+Why can't people sit on the benches when Turalyon informs the community that the benches have been installed on 20260604?,the paint isn't dry yet,['20260604_1800'],Single
+What is the phone number for the maintenance worker that Adam Smith provided to Li Hua for the broken streetlight?,314159,['20260605_1845'],Single
+What breathing technique does Jennifer Moore suggest for running?,Inhaling for 3 steps and exhaling for 2 steps,['20260606_0900'],Single
+When is the Freelancer Group Meeting scheduled for according to the conversation between LiHua and Yuriko?,This Wednesday at 3 pm,['20260608_1430'],Single
+What suggestions does Jennifer give to LiHua to help boost his endurance?,try incorporating longer cardio sessions and interval training into your routine,['20260610_1600'],Single
+What new pastry does Hailey think is perfect for a fitness lover like Li Hua?,high-protein breads,['20260611_1245'],Single
+Who proposes adding some outdoor games or a small water feature to the children's play areain the community discussion?,Thrall,['20260612_1500'],Single
+Who proposes adding picnic tables for families to enjoy some snacks after playing?,Li Hua,['20260612_1500'],Single
+Who proposes creating a little garden area where kids can help plant flowers or vegetables?,GromHellscream,['20260612_1500'],Single
+Why does LiHua bring up Adam Smith in the band's conversation on 20260616?,LiHua thinks it is really nice for Mr. Smith to rent this basement to us for practice,['20260616_1040'],Single
+What event does LiHua think is an opportunity for the Jolly band to perform in front of the crowd?,the poster saying that the town is holding a local music festival,['20260617_1700'],Single
+What dietary restrictions does LiHua have in his conversation with Hailey?,No dietary restrictions,['20260618_1130'],Single
+What will special guest speaker be talking about as Jennifer mentions to LiHua?,about nutrition for athletes,['20260619_0815'],Single
+What is the survey that Jennifer wants LiHua to fill out about?,the experience with our training sessions so far,['20260622_1100'],Single
+When does the special event at Hailey's bakery start according to Hailey and LiHua's conversation on 20260622?,The event starts at 10 AM this Saturday,['20260622_1330'],Single
+What video does LiHua send to the band group chat on 20260624?,"a video of himself playing the intro to ""Stairway to Heaven""",['20260624_1400'],Single
+Waht song does Wolfgang propose adding to the band's practice set on 20260625?,Viva la Vida by Coldplay,['20260625_1900'],Single
+What is the main topic of the conversation between LiHua and ChaeSong-hwa on 20260626?,Chae and her team making a breakthrough in the research study and LiHua congratulating her,['20260626_1100'],Single
+Waht songs does Chae recommend in the band's group discussion on 20260629?,"Uptown Funk or ""Happy""",['20260629_1830'],Single
+What tip does Jennifer give to the gym members on 20260630?,Staying hydrated during workout is very important,['20260630_1530'],Single
+Why deoes the construction have to be postponed according to Tirion Fordring?,the storm and the rain have been going on for days,['20260701_1000'],Single
+What kinds of Thai food does Wolfgang want to try out at the Thai restaurant on 20260702?,pad thai and maybe some spring rolls,['20260702_1500'],Single
+What song does Yuriko propose that the band can practice this weekend according to the band's discussion on 20260703?,Take Me Home Country Roads by John Denver,['20260703_1145'],Single
+What is the name of the song that Yuriko recommend to the band on 20260706?,Rolling in the Deep by Adele,['20260706_1930'],Single
+Why are LiHua and Adam concerned about the basement in their conversation on 20260707?,They want to check if there were any issues in the basement after those rainstorms,['20260707_1600'],Single
+Why is Jennifer checking in in the gym group chat on 20260708?,She wants to hear how the members are all doing and offer some personalized advice.,['20260708_1400'],Single
+What is the article that Chae shares with LiHua about?,how to fall asleep faster at night,['20260711_1100'],Single
+What is LiHua's feeback on Hailey's new artisanal donuts?,The flavors are so unique and delicious,['20260712_1600'],Single
+What new flavor is LiHua looking for as he mentions to Hailey in their conversation on 20260714?,a matcha flavor,['20260714_1200'],Single
+Which performance does Chae want the band members to check out in their discussion on 20260715?,"the amazing live performance of ""Bohemian Rhapsody"" by Queen",['20260715_1900'],Single
+Why is LiHua praising Chae in their conversation on 20260717?,LiHua was really amazed by Chae's performance in the band last Sunday because Chae's singing has really leveled up,['20260717_1200'],Single
+What cool thing does Wolfgang find that he wants to share with LiHua?,this awesome guitar Wolfgang found online,['20260718_1800'],Single
+What tips on balancing work and personal hobbies does LiHua give to Chae?,try setting specific hours for work and separate times for your hobbies and don't forget to schedule some fun time for yourself,['20260722_1300'],Single
+What is the size of the basement?,The basement is approximately 15 feet by 20 feet,['20260723_1400'],Single
+What is Wolfgang's favorite superhero?,Iron Man,['20260726_1600'],Single
+What is LiHua's favorite superhero?,Spider-Man,['20260726_1600'],Single
+What sports would LiHua like to see on the community sports day?,some team sports like soccer or basketball,['20260727_1630'],Single
+What activities are being discussed for the community sports day?,Soccer and basketball and tug-of-war and sack race are mentioned as potential activities for the community sports day,['20260727_1630'],Single
+What new hobbies does Wolfgang Schulz propose to Li Hua?,Wolfgang Schulz proposes pottery or painting as a hobby to Li Hua,['20260728_1800'],Single
+What brands of air-conditioners does LiHua recommend to Wolfgang?,Mitsubishi and Daikin,['20260729_1400'],Single
+Who is recommended by Jennifer to share some fitness tips in the gym group chat on 20260730?,LiHua,['20260730_1730'],Single
+What does Hailey Johnson want Li Hua to help with at the bakery according to their discussion on 20260731?,Hailey Johnson wants Li Hua to help gather feedback from customers at the bread-tasting event,['20260731_1300'],Single
+What day do Li Hua and Wolfgang Schulz plan to visit the photography exhibition?,Li Hua and Wolfgang Schulz plan to visit the photography exhibition on Friday evening,['20260801_1900'],Single
+When is Wolfgang and LiHua going to the photography exhibition on 20260805?,19:00,['20260805_1600'],Single
+What new components are being added to the garden project as Turalyon announces it on 20260806?,incorporating sustainable practices like recycling and composting into our renovation project,['20260806_1630'],Single
+Why is Yuriko asking for LiHua's help on 20260807?,She has got ten logo designs for my speech therapy studio and she would love LiHua's opinion on which one stands out the most,['20260807_1200'],Single
+When is the installation of the air-conditioner for the basement?,It's set for Wednesday next week,['20260809_1200'],Single
+Why does Adam reach out to LiHua on 20260810?,To check if LiHua had a chance to look over the warranty and maintenance plans for the air conditioner,['20260810_1800'],Single
+What tips does Jennifer give to LiHua about preventing muscle soreness after a tough workout?,make sure to warm up properly before workouts and cool down afterward & Stretching & Stay hydrated and consider foam rolling post-session to help with recovery,['20260811_1100'],Single
+When is the contractor team going to install the air-conditioner?,20260812 6PM,['20260812_1100'],Single
+When is the garage sale being discussed?,20260814_15:00,['20260814_1500'],Single
+What is the reason Thrall cannot participate in the garage sale?,Thrall has a lot happening with the garden renovations,['20260814_1500'],Single
+What does RexxarRemar suggest to make the garage sale more enjoyable?,RexxarRemar suggests having snacks or drinks at the garage sale,['20260814_1500'],Single
+Who offers to help with setting up for the garage sale?,AdamSmith,['20260814_1500'],Single
+What type of stretches does Sage prefer before hitting the gym?,Sage prefers dynamic stretches,['20260816_1700'],Single
+What does JenniferMoore suggest to improve performance and prevent injuries?,JenniferMoore suggests incorporating stretching techniques,['20260816_1700'],Single
+What does Viper plan to do to increase their stamina?,Viper plans to focus on cardio,['20260817_1215'],Single
+What does Sova plan to do to keep their cardio interesting?,Sova plans to mix it up with different types of cardio exercises,['20260817_1215'],Single
+How much discount is Hailey willing to give to LiHua according to their conversation on 20260816?,15% off,['20260816_2000'],Single
+Who does Li Hua mention as their favorite character from The Witcher 3?,Geralt,['20260818_1000'],Single
+Why does LiHua like Geralt from The Witcher 3?,He's such a complex character with that no-nonsense attitude but deep down he has a great sense of morality & his monster-slaying skills are just epic,['20260818_1000'],Single
+What is Li Hua's opinion about Yennefer's character?,Intense & fiercely independent & her relationship with Geralt evolves,['20260818_1000'],Single
+Which scene stood out for Li Hua in The Witcher 3?,"The ""Battle of Kaer Morhen""",['20260818_1000'],Single
+Which scene in The Witcher 3 does ThaneChambers consider as one of his favorites involving Yennefer?,The scene when Geralt is looking for Yennefer in the early part of the game,['20260818_1000'],Single
+What is Li Hua's impression of the Blood and Wine expansion?,Incredible & new area is stunning & story feels like a mini-epic,['20260818_1000'],Single
+What is Li Hua's opinion on the characters in Succession?,Intense family dynamics and business war,['20260818_1400'],Single
+What TV show does EmilyBurnett recommend to Li Hua after discussing Succession?,The Crown and Ted Lasso,['20260818_1400'],Single
+When does Li Hua plan to meet JakeWatson for soccer practice?,Saturday afternoon at 3 PM,['20260819_1000'],Single
+What are some of the upcoming PS5 exclusives discussed?,Final Fantasy XVI & Marvel's Spider-Man 2 & Ghostwire: Tokyo,['20260819_1800'],Single
+Which upcoming PS5 exclusive game does Gavriel express curiosity about?,Ghostwire: Tokyo,['20260819_1800'],Single
+Which UCL match does Jasper recommend as a classic must-watch?,The 2005 final between Liverpool and AC Milan,['20260821_1500'],Single
+What skill does Li Hua plan to improve with WolfgangSchulz's help?,Data analysis and coding related to AI tools,['20260822_1700'],Single
+Who shared a music theory tutorial with the group?,Chae Song-hwa,['20260825_1045'],Single
+Which regions in Witcher 3 did Li Hua and Thane Chambers discuss?,Skellige and Toussaint,['20260826_1700'],Single
+What is Kendall's relationship with Logan like according to the group's discussion?,Toxic,['20260826_1800'],Single
+What is the topic of discussion between Li Hua and Wolfgang Schulz on burger preferences?,Medium rare vs. well-done meat patty in a classic American,['20260828_1000'],Single
+What is Li Hua's preference for a burger patty's doneness?,Medium rare,['20260828_1000'],Single
+What is Wolfgang's preference for a burger patty's doneness?,well-done,['20260828_1000'],Single
+Why does Wolfgang prefer a well-done meat patty in a burger?,It is safer and more flavorful & he likes a little char on his burger,['20260828_1000'],Single
+What toppings does Wolfgang Schulz prefer on his burger?,Cheese and bacon,['20260828_1000'],Single
+What books does Jennifer recommend to LiHua for deepening understanding of fitness nutrition?,"The New Rules of Lifting and ""Precision Nutrition""",['20260831_1900'],Single
+Why are Wolfgang and LiHua going to the local music store?,check out some new gear and get inspired for our next jam session,['20260831_1900'],Single
+What is the main theme of game group's discussion on 20260901_13:00?,Dutch van der Linde's character and leadership,['20260901_1300'],Single
+Who is the most hateable character in Game of Thrones in Orion's opinion?,Ramsay Bolton,['20260902_1600'],Single
+Who is the most hateable character in Game of Thrones in Merrick's opinion?,Cersei Lannister,['20260902_1600'],Single
+What is the common interest between Li Hua and Jake Watson?,Soccer,['20260903_1700'],Single
+What kind of songs are Li Hua and Chae Song-hwa considering adding to their playlist for babies?,Lullabies,['20260904_1000'],Single
+What makes Wolfgang feel under a lot of pressure according to his conversation with LiHua on 20260905?,this new software project,['20260905_1400'],Single
+Why does AdamSmith ask LiHua about the basement on 20260907?,check in and see how the basement held up after the storm,['20260907_1400'],Single
+How is the basement after the storm?,The basement is all good no water leakage at all,['20260907_1400'],Single
+What is the latest good news from Wolfgang as of 20260908?,software project finally made some significant progress,['20260908_1500'],Single
+What new songs are LiHua working on lately on his guitar as of 20260908?,"Blackbird and ""Hotel California""",['20260908_1500'],Single
+What mission does Gavriel mention that shows Arthur's growth in the game?,the scene where Arthur tells John to take care of his family,['20260909_1000'],Single
+What does Aisling find emotionally impactful about Red Dead Redemption 2's ending?,Arthur's realization of his fate and the music during the last ride,['20260909_1000'],Single
+What side mission in Red Dead Redemption 2 resonated with Jareth?,the side mission with the widow in the honor system,['20260909_1000'],Single
+What was ThaneChambers' favorite horse-related side quest in Red Dead Redemption 2?,the “troubled” horse,['20260909_1000'],Single
+What funny glitch did Fionnuala experience in the game Red Dead Redemption 2?,Arthur ended up floating in mid-air after a cutscene,['20260909_1000'],Single
+What was the final showdown that Elara found unforgettable in Red Dead Redemption 2?,with Dutch and Micah,['20260909_1000'],Single
+How does Bronwyn describe the epilogue of the game Red Dead Redemption 2?,captivating after seeing John try to make a life for himself,['20260909_1000'],Single
+Has LiHua ever met anyone like Shedlon Cooper in his real life?,No,['20260910_1200'],Single
+Has EmilyBurnett ever met anyone like Shedlon Cooper in her real life?,No,['20260910_1200'],Single
+What games are LiHua and ThaneChambers planning to check out during their shopping trip according to their discussion on 20260911?,"Spider-Man: Miles Morales and ""Demon's Souls""",['20260911_1400'],Single
+Who is the best midfielder in the past decade in JakeWatson's opinion?,Luka Modrić,['20260912_1600'],Single
+How many servings of vegetables should LiHua aim for each day to keep body in good shape according to Jennifer?,at least 5 servings of veggies a day,['20260913_1800'],Single
+What does LiHua ask Jake about soccer?,the best strategies for soccer players to avoid injuries during games,['20260914_1000'],Single
+What is Jake's first tip for avoiding soccer injuries?,proper warm-up and stretching,['20260914_1000'],Single
+What does Jake suggest to improve flexibility and prevent muscle issues?,staying hydrated,['20260914_1000'],Single
+Why is wearing the right footwear important in soccer?,to avoid slips or sprains,['20260914_1000'],Single
+How does strength training help prevent soccer injuries?,It builds muscles around joints & reduces injury risk & improves stability and endurance,['20260914_1000'],Single
+What type of exercises does Jake recommend for strength training?,squats & lunges & planks & balance exercises like single-leg stands,['20260914_1000'],Single
+What is the purpose of starting with bodyweight exercises?,for those who are new to strength training,['20260914_1000'],Single
+Who does EmilyBurnett think is a standout character in the Game of Thrones series?,Tyrion Lannister,['20260915_1200'],Single
+What does Lachlan appreciate about Arya Stark's character development?,Her transition from an innocent girl to a fierce assassin,['20260915_1200'],Single
+What moment does Rowan find mind-blowing in Arya's storyline?,When Arya confronts and takes down the Night King,['20260915_1200'],Single
+Which moment involving Tyrion is Merrick's favorite?,When Tyrion blows up the Wildfire to save King's Landing,['20260915_1200'],Single
+What memorable quote is mentioned by Phaedra?,"Jon Snow's ""You know nothing"" scene with Ygritte",['20260915_1200'],Single
+"What does Rowan love about Tyrion's ""I drink and I know things"" line?",It captures his cleverness,['20260915_1200'],Single
+What aspect of Jaime Lannister's storyline does Rowan find intriguing?,His transformation after meeting Brienne of Tarth,['20260915_1200'],Single
+How does Phaedra view Jaime's character arc?,"Fascinating as he goes from ""Kingslayer"" to someone who values honor",['20260915_1200'],Single
+What does Lachlan think about Jaime's final decision to protect Cersei?,It complicates his redemption and leaves mixed feelings,['20260915_1200'],Single
+How does Saffron feel about Jaime's choice to protect Cersei?,Conflicted because it seems like he was slipping back into old ways,['20260915_1200'],Single
+What does Kieran wish Jaime had done differently?,Chosen a different path after his character development,['20260915_1200'],Single
+How does Niamh think Jaime could've ended up differently?,By staying true to the lessons he learned from Brienne,['20260915_1200'],Single
+What could Jaime and Brienne have done to rebuild trust according to Merrick?,Worked on rebuilding trust through actions rather than just words,['20260915_1200'],Single
+"What is LiHua curious about regarding the ""Man in Black"" in Westworld?",The motive behind his character,['20260916_1600'],Single
+"What does EmilyBurnett think is the main motive for the ""Man in Black""?",To find deeper meaning and fulfillment in Westworld,['20260916_1600'],Single
+"How does LiHua feel about the ""Man in Black's"" search for meaning?",Intrigued as it adds depth to the story,['20260916_1600'],Single
+"What is EmilyBurnett's favorite moment of the ""Man in Black""?",When he confronts the truth about himself and his choices,['20260916_1600'],Single
+"Which moment does LiHua find memorable for the ""Man in Black""?",When he shows vulnerability,['20260916_1600'],Single
+What does LiHua think about the themes of Westworld?,They are thought-provoking by diving into consciousness and free will and what it means to be human,['20260916_1600'],Single
+Which theme of Westworld resonates the most for LiHua?,The exploration of free will and choice,['20260916_1600'],Single
+What does EmilyBurnett think about the future relevance of Westworld's themes?,They will become even more crucial as technology advances,['20260916_1600'],Single
+What does WolfgangSchulz suggest incorporating into practice sessions according to the discussion on 20260916?,Improvisational solos,['20260916_1900'],Single
+How does LiHua feel about the idea of improvisation based on the chat on 20260916?,It will make sessions more fun and creative,['20260916_1900'],Single
+Who does JakeWatson consider the best defender in the history of FC Barcelona?,Carles Puyol,['20260917_1000'],Single
+What does LiHua think about Gerard Piqué as a defender?,He deserves a mention for his skill and intelligence,['20260917_1000'],Single
+Who are JakeWatson's and LiHua's favorite defenders?,Carles Puyol and Gerard Piqué,['20260917_1000'],Single
+What is JakeWatson's favorite memory of Puyol and Piqué playing together?,The comeback against PSG in the Champions League,['20260917_1000'],Single
+What match does JakeWatson cherish from the Champions League final against Manchester United?,The 2009 final,['20260917_1000'],Single
+What is LiHua's favorite match involving Barcelona?,The 2013 Champions League match against AC Milan,['20260917_1000'],Single
+Which goal does JakeWatson never forget from Messi?,Messi's solo goal against Getafe in 2007,['20260917_1000'],Single
+What is LiHua's favorite player moment from Messi?,When Messi scored a header against Manchester United in 2011,['20260917_1000'],Single
+What does LiHua think makes Messi the best?,His ability to create chances as well as his vision and work ethic and humility,['20260917_1000'],Single
+How does JakeWatson view Messi's impact on future generations of players?,His dedication and consistency set the bar high for young players,['20260917_1000'],Single
+Who suggests hitting Starbucks after work on 20260918?,WolfgangSchulz,['20260918_1800'],Single
+What is JenniferMoore's reminder to LiHua about on 20260919?,Getting enough protein after workouts,['20260919_1000'],Single
+Why is protein important according to JenniferMoore?,For keeping the body in shape,['20260919_1000'],Single
+What is ThaneChambers' question to LiHua on 20260920?,LiHua's favorite first-person shooter game,['20260920_1600'],Single
+Which game does LiHua mention he's been playing on 20260920?,Call of Duty: Warzone,['20260920_1600'],Single
+"What does ThaneChambers say about ""Warzone""?",It's a blast,['20260920_1600'],Single
+"What does LiHua like most about ""Warzone""?",The strategy involved and the adrenaline rush,['20260920_1600'],Single
+"What is ThaneChambers' memorable ""Warzone"" experience?",Coming back from a tough spot to win at the last second,['20260920_1600'],Single
+"What was LiHua's unforgettable match in ""Warzone""?",Being down to the last two and outsmarting the last team,['20260920_1600'],Single
+"How does ThaneChambers feel about upcoming ""Warzone"" updates?",He's looking forward to them,['20260920_1600'],Single
+"Does LiHua plan to play ""Warzone"" after the updates?",Yes because he loves exploring fresh content,['20260920_1600'],Single
+"What does ThaneChambers propose to do with the ""Warzone"" updates?",Hop on together and tackle the new stuff,['20260920_1600'],Single
+Who initiated the discussion about the community garden renovation and its benefits to local businesses?,Turalyon,['20260921_1000'],Single
+What idea did IllidanStormrage propose to help involve the community in supporting local businesses?,Putting together a flyer with a list of local businesses,['20260921_1000'],Single
+How does GromHellscream believe the local shops will benefit from the completed garden?,More foot traffic means more customers for them,['20260921_1000'],Single
+What does ArthasMenethil describe the outcome of the garden project and supporting local vendors as?,A win-win,['20260921_1000'],Single
+What does Thrall suggest they create to support local businesses?,A list of businesses they love to support,['20260921_1000'],Single
+How does TirionFordring emphasize the importance of balancing the garden renovation with supporting local vendors?,By stating that both aspects are important for the best outcome,['20260921_1000'],Single
+What does AdamSmith agree is crucial to align with the garden project schedule?,Support for local businesses,['20260921_1000'],Single
+Who does LiHua ask for help with installing a curtain?,AdamSmith,['20260921_1600'],Single
+When does AdamSmith say he is available to help with the curtain installation?,Wednesday or Thursday afternoon,['20260921_1600'],Single
+On which day do LiHua and AdamSmith agree to install the curtain?,Thursday afternoon,['20260921_1600'],Single
+Who will bring the tools for the curtain installation?,AdamSmith,['20260921_1600'],Single
+Who suggests exploring the PS5 settings for accessibility features and Game Help?,ThaneChambers,['20260922_1200'],Single
+What feature on the PS5 does Ileana praise for making switching between games smoother?,Control Center,['20260922_1200'],Single
+How does Fionnuala describe the convenience of the Control Center's audio settings adjustment?,You can adjust audio settings on the fly without having to pause the game,['20260922_1200'],Single
+What aspect does ThaneChambers enjoy about sharing clips on the PS5?,It's a great way to relive intense moments with friends,['20260922_1200'],Single
+Which game is LiHua currently obsessed with for its graphics and storytelling?,God of War,['20260922_1200'],Single
+What game is Helios currently playing and finds the world and gameplay mechanics stunning?,Horizon Forbidden West,['20260922_1200'],Single
+"How does Dyllan describe the combat in ""Horizon Forbidden West""?",It can be tricky sometimes,['20260922_1200'],Single
+"What strategy does Helios recommend for dealing with flying machines in ""Horizon Forbidden West""?",Using a bow with elemental arrows and focus to track their movements,['20260922_1200'],Single
+Which game does Helios suggest for tactical fun with a great story and character development?,Fire Emblem,['20260922_1200'],Single
+What type of combat does Gavriel prefer in games?,Turn-based combat,['20260922_1200'],Single
+What game has Gavriel been hooked on recently for its blend of RPG elements and social simulation?,Persona 5 Royal,['20260922_1200'],Single
+Which game does Dyllan recommend for turn-based combat and art style?,Octopath Traveler,['20260922_1200'],Single
+"Who is ThaneChambers' favorite character in ""Octopath Traveler""?",Primrose,['20260922_1200'],Single
+"What is Aisling's opinion on using traps in ""Octopath Traveler""?",They are a game changer,['20260922_1200'],Single
+"How does Dyllan describe the importance of a balanced party in ""Octopath Traveler""?",It allows for more flexibility in battles and helps adapt to different challenges,['20260922_1200'],Single
+"What is Bronwyn's experience with going full support in tough fights in ""Octopath Traveler""?",It can be risky but totally viable,['20260922_1200'],Single
+"Which boss did Gavriel struggle with the most in ""Octopath Traveler""?",The final boss,['20260922_1200'],Single
+What does Elara enjoy doing to unwind after intense battles in games?,Wander around and collect items or side quests,['20260922_1200'],Single
+What type of gameplay does Jareth enjoy after a big challenge?,Relaxing gameplay,['20260922_1200'],Single
+Who asks Emily if she has read The Lord of the Rings novels?,LiHua,['20260922_1700'],Single
+What TV series does LiHua mention that they are curious about in relation to The Lord of the Rings?,The Rings of Power,['20260922_1700'],Single
+"What aspect of ""The Rings of Power"" does Emily appreciate in terms of visuals?",How they are bringing Middle-earth to life,['20260922_1700'],Single
+Which character does LiHua mention as their favorite and describe as inspiring?,Galadriel,['20260922_1700'],Single
+What aspect of Elrond's character does Emily appreciate?,His mix of wisdom and vulnerability,['20260922_1700'],Single
+"What does LiHua predict will happen in ""The Rings of Power""?",Epic battles and alliances forming,['20260922_1700'],Single
+What does Emily think will happen next in the series in terms of story development?,The stakes will rise and alliances will evolve,['20260922_1700'],Single
+What do LiHua and Emily agree on regarding the anticipation for the next episode?,They both can't wait for the next episode,['20260922_1700'],Single
+What does LiHua suggest they should do as the series unfolds?,Keep sharing their thoughts,['20260922_1700'],Single
+What does Emily say about the series making her feel like she is really getting to know the characters?,The emphasis on character development and their backstories,['20260922_1700'],Single
+Who initiates the suggestion to go to the grocery store after work on 20260923?,WolfgangSchulz,['20260923_1600'],Single
+What is the purpose of going to the grocery store on 20260923 according to WolfgangSchulz?,To grab some snacks for their next jam,['20260923_1600'],Single
+What time does WolfgangSchulz propose for going to the grocery store on 20260923?,Around 5:30,['20260923_1600'],Single
+How does LiHua feel about the bench press challenge proposed by JenniferMoore?,LiHua feels pretty strong and is up for the challenge,['20260924_2000'],Single
+What exercises does JakeWatson recommend for leg strength?,Squats and lunges,['20260925_2100'],Single
+What additional advice does JakeWatson give for maintaining muscle flexibility?,Stretch after workouts,['20260925_2100'],Single
+Which stretches does JakeWatson recommend for soccer-specific areas?,Hamstring stretch and quad stretch,['20260925_2100'],Single
+How long should each stretch be held according to JakeWatson?,About 30 seconds,['20260925_2100'],Single
+When and where does JakeWatson propose to meet for the practice session according to the conversation on 20260925?,Saturday at 4 PM at the usual spot,['20260925_2100'],Single
+What is LiHua's response to the suggestion of taking a warm shower before bed?,LiHua plans to try it tonight,['20260926_1030'],Single
+Who asks LiHua to measure the window in the basement?,AdamSmith,['20260928_1000'],Single
+Why does AdamSmith want the window measured?,To get some curtains made,['20260928_1000'],Single
+What are the dimensions of the window that LiHua measures?,150 cm wide and 120 cm high,['20260928_1000'],Single
+Who initiates the discussion about binaural tones?,ChaeSong-hwa,['20260929_1100'],Single
+What does ChaeSong-hwa suggest binaural tones could enhance?,The sound and listening experience for their audience,['20260929_1100'],Single
+How does YurikoYamamoto feel about adding a new dimension to their music with binaural tones?,Excited to give it a try,['20260929_1100'],Single
+Who congratulates LiHua on pushing their limits with the bench press?,JenniferMoore,['20260930_1400'],Single
+What does LiHua express feeling after the encouragement from Jennifer?,Strong and motivated,['20260930_1400'],Single
+What is the focus for the next session suggested by JenniferMoore on 20260930?,Form and control,['20260930_1400'],Single
+What technique does JenniferMoore suggest to gradually increase weight of the bench press exercise?,Progressive overload,['20260930_1400'],Single
+Who suggests going out for hot pot?,LiHua,['20260930_1600'],Single
+What type of hot pot does WolfgangSchulz prefer?,Sichuan,['20260930_1600'],Single
+What time does LiHua propose for dinner on 20260930?,7 pm,['20260930_1600'],Single
+Who comes up with the idea of picking up drinks on the way to hot pot?,LiHua,['20260930_1600'],Single
+What type of drink does LiHua suggest to have with hot pot?,Cold beer,['20260930_1600'],Single
+Who reminds everyone to drink water before and during the match?,JakeWatson,['20261001_1800'],Single
+What does Ivor do the day before a game to help with hydration?,Hydrate well,['20261001_1800'],Single
+What drink does JakeWatson recommend for hydration after a match?,Coconut water,['20261001_1800'],Single
+What does Giselle emphasize about passing drills?,Accuracy is key in games,['20261001_1800'],Single
+What practice idea does Dacey suggest to improve passing skills?,Target practice with cones,['20261001_1800'],Single
+What does Briar remind everyone to bring to practice?,Water bottles,['20261001_1800'],Single
+What does Giselle remind everyone to do before practice?,Stretch,['20261001_1800'],Single
+Who is considering buying Sekiro: Shadows Die Twice and asks for ThaneChambers' opinion?,LiHua,['20261001_2000'],Single
+What does ThaneChambers think about Sekiro: Shadows Die Twice?,It's amazing and worth grabbing,['20261001_2000'],Single
+What aspects of Sekiro: Shadows Die Twice does ThaneChambers highlight?,Unique combat system & timing & strategy & world design,['20261001_2000'],Single
+Does ThaneChambers recommend Sekiro: Shadows Die Twice to those who love a challenge?,Yes,['20261001_2000'],Single
+What game is ThaneChambers currently playing?,Black Myth: Wukong,['20261001_2000'],Single
+What does LiHua think about the graphics and gameplay of Black Myth: Wukong?,The graphics look insane and the gameplay seems really fluid,['20261001_2000'],Single
+What part of Black Myth: Wukong does ThaneChambers like the most?,The fresh take on the classic tale and the unique combat mechanics,['20261001_2000'],Single
+Which aspect of Black Myth: Wukong does LiHua find immersive?,The combat style and how it blends with the storyline,['20261001_2000'],Single
+What does ThaneChambers love about the boss battles in Black Myth: Wukong?,The thrill of strategizing how to take them down and the breathtaking scenery,['20261001_2000'],Single
+Who informs LiHua that the new software is almost done?,WolfgangSchulz,['20261002_1300'],Single
+What is LiHua's reaction to the news about the new software?,LiHua is excited to check it out,['20261002_1300'],Single
+Who asks Jake to play as the goalkeeper for soccer training?,LiHua,['20261003_1200'],Single
+Does Jake agree to play as the goalkeeper?,Yes,['20261003_1200'],Single
+Who discusses classic matches between Barca and Bayern with Jake?,LiHua,['20261005_1005'],Single
+In which year did Barca lose 4-0 against Bayern as mentioned in the conversation?,2013,['20261005_1005'],Single
+Which goal does Jake consider incredible from the 2015 match?,Neymar's goal,['20261005_1005'],Single
+Who does Jake believe has the potential to be a game-changer for Barca?,Pedri,['20261005_1005'],Single
+What is LiHua looking forward to in the upcoming matches?,Seeing how Pedri and the team perform and if they can go far in the UCL,['20261005_1005'],Single
+What are Jake's go-to snacks for match days?,Chips and dip & pizza,['20261005_1005'],Single
+What are LiHua's favorite snacks for the game?,Nachos with cheese and spicy salsa,['20261005_1005'],Single
+Who does LiHua pick as the best football manager of all time?,Pep Guardiola,['20261006_1000'],Single
+What aspect of Guardiola's career does JakeWatson admire?,The transformation of the teams he's managed,['20261006_1000'],Single
+"Which team's style of play does Farrah remember as ""Total football""?",Barcelona,['20261006_1000'],Single
+What playing style is associated with Guardiola's Barcelona team?,Tiki-taka,['20261006_1000'],Single
+Which player's development under Guardiola does Jasper mention?,Phil Foden,['20261006_1000'],Single
+What player's midfield importance does Aurora highlight?,Rodri,['20261006_1000'],Single
+Who will bring cones for drills at the match?,Farrah,['20261006_1000'],Single
+What type of passes does Briar suggest adding to the practice?,Quick one-twos,['20261006_1000'],Single
+What will LiHua bring for everyone to enjoy after the match?,Snacks,['20261006_1000'],Single
+Which match does Jasper mention that Manchester City played recently?,Against Chelsea in the Premier League,['20261006_1000'],Single
+Who scored a stunner in the Manchester City vs. Chelsea match as mentioned in the conversation?,Phil Foden,['20261006_1000'],Single
+What aspect of Rodri's performance does Henley praise?,His interceptions and passing,['20261006_1000'],Single
+What does Farrah admire about Rodri's play?,His ability to break up opposition plays and transition the ball,['20261006_1000'],Single
+Who checks in with LiHua about their arm muscles after the bench press session?,JenniferMoore,['20261008_1400'],Single
+How does LiHua feel about the soreness in their arm muscles?,It feels good and they are ready for the next session,['20261008_1400'],Single
+What snack does LiHua agree to bring for the movie?,Chips,['20261009_1700'],Single
+What drinks does WolfgangSchulz want to have while watching the movie?,Soda and juice,['20261009_1700'],Single
+Who will pick up the snacks and drinks on their way before the movie?,LiHua,['20261009_1700'],Single
+Who initiated the discussion about Cersei's journey in Game of Thrones?,EmilyBurnett,['20261010_1010'],Single
+How does Rowan describe Cersei's transformation throughout the series?,From vulnerable to ruthless,['20261010_1010'],Single
+What significant event in Cersei's life does Saffron highlight as a turning point?,Losing her kids,['20261010_1010'],Single
+Which character's dynamic with Cersei is mentioned as complicated?,Jaime,['20261010_1010'],Single
+What does Lachlan find haunting about Cersei's end?,How much she fought to hold onto her power,['20261010_1010'],Single
+What idea does Rowan say Cersei represents?,Power comes at a cost,['20261010_1010'],Single
+What aspect of Cersei's character does Quillan say often shadows her vulnerability?,Her desperation for control,['20261010_1010'],Single
+What relationship could have potentially changed Cersei's path according to Phaedra?,Her relationship with Tyrion,['20261010_1010'],Single
+How does Kieran describe Tywin's influence on Cersei?,He taught her ruthless methods,['20261010_1010'],Single
+What does Orion say about Cersei's mix of loyalty and fear towards Tywin?,It was a mix of both,['20261010_1010'],Single
+What does Rowan say about Cersei's independence?,It made her stronger but also more isolated,['20261010_1010'],Single
+What does LiHua say Cersei's power came at the price of?,Meaningful connections,['20261010_1010'],Single
+What relationship could have shown Cersei a different perspective on power according to Lachlan?,Her relationship with Tyrion,['20261010_1010'],Single
+What does Tamara say Cersei's love led to?,Her downfall,['20261010_1010'],Single
+What could have changed everything for Cersei if she had embraced it according to Tamara?,Her family ties,['20261010_1010'],Single
+What does EmilyBurnett say Cersei's choices led to?,Her isolation,['20261010_1010'],Single
+What does Quillan suggest could have been a game-changer for Cersei?,Accepting Tyrion's advice,['20261010_1010'],Single
+What does Saffron say Cersei was blinded by?,Her need for control,['20261010_1010'],Single
+Who initiates the discussion about game storytelling?,ThaneChambers,['20261011_1100'],Single
+What game does ThaneChambers consider their top choice for storytelling?,The Last of Us,['20261011_1100'],Single
+Which game's narrative does Bronwyn appreciate for its father-son dynamic?,God of War,['20261011_1100'],Single
+What game does Gavriel mention for its characters and plot twists?,Final Fantasy VII Remake,['20261011_1100'],Single
+Which game does ThaneChambers recommend for its choice-based storytelling?,Life is Strange,['20261011_1100'],Single
+What game does Elara mention for making her emotional?,Bioshock Infinite,['20261011_1100'],Single
+Which game does Jareth praise for its storytelling in side quests?,The Witcher 3,['20261011_1100'],Single
+What game does Dyllan describe as epic for its samurai culture?,Ghost of Tsushima,['20261011_1100'],Single
+Which game does Helios call a masterpiece for making players feel connected to the characters?,Red Dead Redemption 2,['20261011_1100'],Single
+"What scene from ""Red Dead Redemption 2"" does Bronwyn mention as emotional?",The scene with Arthur and John on the mountain,['20261011_1100'],Single
+What game does Ileana say made her question the morality of her actions?,Red Dead Redemption 2,['20261011_1100'],Single
+Which game does Caelum mention for encouraging emotional engagement with the narrative?,Red Dead Redemption 2,['20261011_1100'],Single
+What game does Bronwyn say mixes daily life with deep story arcs?,Persona 5,['20261011_1100'],Single
+Which game does Ileana mention for its unique world and storytelling?,Horizon Zero Dawn,['20261011_1100'],Single
+What game does LiHua mention for exploring themes of choice & consciousness & humanity?,Detroit: Become Human,['20261011_1100'],Single
+Which game does Dyllan say raised interesting questions and moral dilemmas?,Detroit: Become Human,['20261011_1100'],Single
+What game does Dyllan recall for its intimate feel and dialogue?,Firewatch,['20261011_1100'],Single
+Which game does LiHua mention for playing with various storytelling tropes?,The Stanley Parable,['20261011_1100'],Single
+When did Li Hua receive the curtains?,Yesterday (implied to be 20261011),['20261012_1000'],Single
+What does Li Hua like about the curtains?,the patterns,['20261012_1000'],Single
+Who offers to help with the installation of the curtains?,AdamSmith,['20261012_1000'],Single
+What does Turalyon want to hear everyone's thoughts on?,the new benches,['20261013_1330'],Single
+What does MuradinBronzebeard think about the cushions idea?,It sounds like a nice idea,['20261013_1330'],Single
+What does MalfurionStormrage suggest for sunny days?,umbrellas for shade,['20261013_1330'],Single
+Who proposes the idea of adding tables near the benches?,RexxarRemar,['20261013_1330'],Single
+What does GromHellscream suggest to brighten the area in the evening?,lanterns or string lights,['20261013_1330'],Single
+What type of lanterns does MalfurionStormrage recommend?,solar-powered lanterns,['20261013_1330'],Single
+Who is excited to see how the garden evolves?,Thrall,['20261013_1330'],Single
+What does Turalyon think about the suggestions?,They are going to make the garden a fantastic community spot,['20261013_1330'],Single
+What does ChaeSong-hwa suggest for the garden once everything is set up?,a little gathering,['20261013_1330'],Single
+What kind of activities does MalfurionStormrage suggest for the gathering?,games for kids & flower planting workshops & good food,['20261013_1330'],Single
+Who offers to check with friends for live music performance?,ArthasMenethil,['20261013_1330'],Single
+What does MuradinBronzebeard think about live music?,It would really enhance the experience,['20261013_1330'],Single
+Who suggests doing a group purchase of the new games?,ThaneChambers,['20261014_1400'],Single
+What does ThaneChambers think about the new games?,excited and interested,['20261014_1400'],Single
+What feature are they hoping for in the new game?,co-op missions and shared loot system,['20261014_1400'],Single
+What does Helios want to know about the game?,whether it will feature crossplay,['20261014_1400'],Single
+What does Dyllan think about crossplay?,it was awesome and makes playing together much easier,['20261014_1400'],Single
+What does Ileana think is essential for the new game?,a robust matchmaking system,['20261014_1400'],Single
+What does Fionnuala think about matchmaking systems?,they can make or break the experience,['20261014_1400'],Single
+What does Helios think would be awesome for character development?,a deep skill tree or upgrade system,['20261014_1400'],Single
+What does Gavriel think about crafting systems?,they offer a chance to create unique weapons and gear,['20261014_1400'],Single
+What does Elara think about resource management?,it always makes it feel more immersive,['20261014_1400'],Single
+What does Fionnuala think about potions and temporary boosts?,they are always helpful,['20261014_1400'],Single
+What does ThaneChambers think about stealth boosts?,they add a whole new layer to gameplay,['20261014_1400'],Single
+What does Bronwyn think about the idea of stealth missions?,it will be all about timing and communication,['20261014_1400'],Single
+What does LiHua think about the potential for stealth in the game?,it could lead to some really engaging and strategic gameplay,['20261014_1400'],Single
+What team does JakeWatson admire for their comebacks?,Real Madrid,['20261014_2000'],Single
+What is one characteristic of Real Madrid that JakeWatson mentions?,they thrive under pressure,['20261014_2000'],Single
+Which match does JakeWatson remember for Real Madrid's comeback?,Champions League against Manchester City in 2022,['20261014_2000'],Single
+What was special about the match against Manchester City in 2022 according to the group discussion?,Rodrygo's stoppage-time goal,['20261014_2000'],Single
+What does Aurora say about the atmosphere at the Bernabéu during tough games?,It was electric,['20261014_2000'],Single
+What does Evangeline say about Real Madrid's history in the Champions League?,They have a legendary history and a winning culture,['20261014_2000'],Single
+What does Briar think about Real Madrid's chances for the rest of the season?,They have a solid chance to challenge for every title,['20261014_2000'],Single
+Who is Real Madrid's coach according to Ivor?,Ancelotti,['20261014_2000'],Single
+What does Dacey propose to practice on Saturday?,soccer shooting skills,['20261014_2000'],Single
+Where do they plan to meet for soccer practice?,the local park,['20261014_2000'],Single
+What time do they plan to meet for soccer practice?,3 PM,['20261014_2000'],Single
+Who offers to bring cones for the soccer practice?,Aurora,['20261014_2000'],Single
+What else does Henley plan to work on during the practice?,dribbling skills,['20261014_2000'],Single
+Who suggests getting pizza for dinner?,WolfgangSchulz,['20261015_1500'],Single
+What does LiHua want to know about WolfgangSchulz's pizza preference?,his favorite place for pizza,['20261015_1500'],Single
+What new pizza place does WolfgangSchulz suggest?,a new pizza place downtown,['20261015_1500'],Single
+What time do they agree to meet for pizza?,around 7,['20261015_1500'],Single
+Who invites LiHua to taste a new bread recipe?,HaileyJohnson,['20261016_1600'],Single
+What does HaileyJohnson want LiHua to taste?,a new bread recipe,['20261016_1600'],Single
+What type of pizza does WolfgangSchulz prefer?,margherita,['20261017_1700'],Single
+What pizza does LiHua like?,pepperoni with extra cheese,['20261017_1700'],Single
+What drink does WolfgangSchulz usually have with his pizza?,soda or craft beer,['20261017_1700'],Single
+What is LiHua's suggestion regarding pizza places?,to check out the new downtown place,['20261017_1700'],Single
+What do LiHua and Wolfgang plan to do together according to their conversation on 20261017?,plan a pizza night,['20261017_1700'],Single
+What songs does ChaeSong-hwa suggest starting with according to the discussion on 20261019?,"Sweet Home Alabama or ""Let It Be""",['20261019_1900'],Single
+What type of songs does YurikoYamamoto want to try according to the discussion on 2026101?,upbeat pop songs,['20261019_1900'],Single
+What songs does ChaeSong-hwa suggest adding to the mix according to the discussion on 2026101?,"Shallow or ""Shake It Off""",['20261019_1900'],Single
+What does ChaeSong-hwa plan to bring to karaoke night?,snacks,['20261019_1900'],Single
+What does WolfgangSchulz suggest the group do before the upcoming karaoke night?,pick their songs,['20261019_1900'],Single
+How does LiHua feel about the upcoming karaoke night?,excited and can't wait,['20261019_1900'],Single
+What does ChaeSong-hwa say about the karaoke night?,it's going to be a blast,['20261019_1900'],Single
+What is the current status of the curtains according to LiHua?,They are perfect and more than satisfies him,['20261019_2000'],Single
+What offer does AdamSmith extend to LiHua regarding the basement?,It can be used for extra storage whenever LiHua is ready,['20261019_2000'],Single
+What game does ThaneChambers remember as LiHua's favorite?,Black Myth: Wukong,['20261020_1000'],Single
+"What aspect of ""Black Myth: Wukong"" does LiHua find the most impressive?",the visuals,['20261020_1000'],Single
+"What does ThaneChambers like about the game ""Black Myth: Wukong""?",the storytelling,['20261020_1000'],Single
+"Who is LiHua's favorite character in the game ""Black Myth: Wukong""?",Wukong,['20261020_1000'],Single
+"What memorable moment does LiHua share from the game ""Black Myth: Wukong""?",an amazing battle scene where he had to outsmart a giant enemy,['20261020_1000'],Single
+"What memorable moment does ThaneChambers share from the game ""Black Myth: Wukong""?",a moment where he faced a tricky puzzle,['20261020_1000'],Single
+"How does LiHua describe the balance of combat and puzzles in the game ""Black Myth: Wukong""?",It's refreshing to switch between action and thinking,['20261020_1000'],Single
+Does LiHua play the game solo or with friends?,Both,['20261020_1000'],Single
+Would LiHua be interested in playing co-op with the group?,Yes,['20261020_1000'],Single
+What TV series does EmilyBurnett remember LiHua likes?,Chernobyl,['20261021_2100'],Single
+"What does LiHua appreciate about the series ""Chernobyl""?",the powerful storytelling and the cinematography,['20261021_2100'],Single
+What is EmilyBurnett's favorite TV show?,Game of Thrones,['20261021_2100'],Single
+"What memorable scene from ""Chernobyl"" does LiHua mention?",the scene where they're trying to contain the radiation,['20261021_2100'],Single
+"Who is LiHua's favorite actor in ""Chernobyl""?",Stellan Skarsgård as Boris Shcherbina,['20261021_2100'],Single
+What TV series is EmilyBurnett currently watching?,The Last of Us,['20261021_2100'],Single
+What TV show does EmilyBurnett recommend LiHua to watch?,The Last of Us,['20261021_2100'],Single
+"What does LiHua's plan about wathcing ""The Last of Us""?",binge it that weekend,['20261021_2100'],Single
+What does JenniferMoore congratulate LiHua for pn 20261022?,for pushing his limits with the planks this week,['20261022_2200'],Single
+What does JakeWatson suggest for refueling after a soccer game?,a snack with carbs and protein and staying hydrated,['20261023_2300'],Single
+What are LiHua's usual recovery snacks after a game?,a protein shake and a fruit smoothie,['20261023_2300'],Single
+What event is the community organizing?,a weekend picnic,['20261024_1100'],Single
+What is the purpose of the community picnic?,to bring the community together and get to know each other better,['20261024_1100'],Single
+What type of food event did Turalyon suggest?,a potluck,['20261024_1100'],Single
+What does RexxarRemar suggest for the community picnic atmosphere?,organizing some music,['20261024_1100'],Single
+What does TirionFordring suggest bringing for seating?,blankets or chairs,['20261024_1100'],Single
+What day did the community members decide on for the picnic?,next Saturday,['20261024_1100'],Single
+What does RexxarRemar suggest for keeping everyone energized during the picnic?,a mix of snacks and drinks,['20261024_1100'],Single
+What does RexxarRemar suggest to have available to keep everyone hydrated during the picnic?,water and drinks,['20261024_1100'],Single
+What does IllidanStormrage say he will bring to keep everyone entertained during the picnic?,some epic games,['20261024_1100'],Single
+What places in Europe does WolfgangSchulz remember as stunning in Europe?,the fjords in Norway and the lavender fields in Provence,['20261025_1600'],Single
+What does WolfgangSchulz like about Prague?,its architecture and the vibe of the old town,['20261025_1600'],Single
+What local dish did WolfgangSchulz try in Prague?,goulash,['20261025_1600'],Single
+What is WolfgangSchulz's favorite risotto memory?,having seafood risotto in Venice,['20261025_1600'],Single
+What is on WolfgangSchulz's list for a future trip?,Italy,['20261025_1600'],Single
+What does WolfgangSchulz want to check out in Italy?,Cinque Terre,['20261025_1600'],Single
+What does LiHua say about the seafood in Cinque Terre?,it's supposed to be fresh and delicious,['20261025_1600'],Single
+What time will Li Hua and Wolfgang meet for breakfast on the morning of the 9th?,Insufficient information,,Null
+What type of equipment does Wolfgang Schulz use when he works out at the gym?,Insufficient information,,Null
+"What type of exercise does Li Hua prefer to do at the gym, and what time does Wolfgang usually go to the gym?",Insufficient information,,Null
+What type of traditional games did Wolfgang Schulz play with Li Hua during the Lunar New Year celebration?,Insufficient information,,Null
+"What did Li Hua eat for dinner on January 20, 2026?",Insufficient information,,Null
+What specific suggestions did Li Hua have regarding the construction schedule during the last community meeting?,Insufficient information,,Null
+What movie did Li Hua and Wolfgang decide to watch together on New Year's Eve 2026?,Insufficient information,,Null
+What dish did Li Hua order for dessert after having Sichuan hot pot with Wolfgang Schulz?,Insufficient information,,Null
+What were the specific requirements that the customers modified and how did Li Hua respond to each change?,Insufficient information,,Null
+"What payment method did Li Hua use to purchase groceries from the store on April 15, 2026?",Insufficient information,,Null
+What specific diet did Li Hua follow to achieve his fitness results that Jennifer Moore recommended?,Insufficient information,,Null
+What alternative training sports does Li Hua consider besides the current routine mentioned in his conversation with Jennifer?,Insufficient information,,Null
+What type of diet is Li Hua following to support his training regimen and sleep schedule?,Insufficient information,,Null
+What type of protein shake does Li Hua prefer to drink before his workout sessions?,Insufficient information,,Null
+What specific brand of protein supplement does Jennifer recommend for Li Hua's weight loss journey?,Insufficient information,,Null
+What specific colors of paint does Li Hua plan to use for the basement walls after decorating with potted plants?,Insufficient information,,Null
+What color did Li Hua decide to paint the walls of the basement after completing the renovation?,Insufficient information,,Null
+"What specific design features did Li Hua suggest for Yuriko's studio homepage during their meeting at ""Central Perk""?",Insufficient information,,Null
+What is the name of the concert that Wolfgang and Li Hua will attend on March 7th?,Insufficient information,,Null
+What type of cake does Li Hua plan to bring to the meeting with Yuriko to celebrate her studio's homepage redesign?,Insufficient information,,Null
+What color did Li Hua paint his house before the community garden renovation began?,Insufficient information,,Null
+What specific dietary changes did Li Hua implement in his training regimen as a result of Jennifer's advice on endurance and flexibility?,Insufficient information,,Null
+"What specific feedback did Yuriko give to Li Hua about the demo website during their meeting at the cafe ""Central Perk"" on Thursday morning, and how did Li Hua respond to her comments?",Insufficient information,,Null
+What is the exact reason for Li Hua's unexpected work meeting on Thursday?,Insufficient information,,Null
+"What toppings did Hailey put on the bread for Li Hua's next delivery, and what is the name of the bakery she gets her bread from?",Insufficient information,,Null
+What is the favorite type of music that Li Hua and Yuriko plan to play together?,Insufficient information,,Null
+What are the specific reasons why Li Hua prefers classical music over pop music in their discussions?,Insufficient information,,Null
+What song did Yuriko and Wolfgang decide to perform together after watching the drum tutorial?,Insufficient information,,Null
+"What type of feedback did Li Hua provide to Chae regarding the community medical knowledge lecture, and what is Wolfgang's role in the band rehearsal?",Insufficient information,,Null
+What is the name of the last song Wolfgang played using the new drum practice app?,Insufficient information,,Null
+What flavor of new bread products did Li Hua really enjoy at the bakery's anniversary event?,Insufficient information,,Null
+What is the name of the song that Li Hua will sing at the karaoke on 20260425?,Insufficient information,,Null
+What flavor of cake did Hailey plan to bake for the bakery's anniversary celebration in February?,Insufficient information,,Null
+What type of dessert did Wolfgang plan to order for Li Hua during their dinner celebration?,Insufficient information,,Null
+What were Raze's personal reasons for becoming a fitness coach before discussing pull-up techniques?,Insufficient information,,Null
+"What new species of flowers will be featured in the community garden renovation, according to the feedback provided by Li Hua during the progress reports?",Insufficient information,,Null
+What specific construction projects were discussed at the meeting between Turalyon and the residents regarding noise control?,Insufficient information,,Null
+What is the amount of rent Li Hua owes to Adam Smith for the months of April and May?,Insufficient information,,Null
+What song did Li Hua perform at the local music festival in 2026?,Insufficient information,,Null
+"What is the name of the restaurant where Li Hua and Wolfgang had dinner on the night of June 9, 2026?",Insufficient information,,Null
+What is the nutritional value of the new line of high-protein breads compared to traditional white bread?,Insufficient information,,Null
+What specific sleep techniques did Li Hua use to improve her study habits after reading the neuroscience article and discussing the warm shower with Chae?,Insufficient information,,Null
+What type of special dietary restrictions does Li Hua follow when preparing meals for his family?,Insufficient information,,Null
+"What is the total cost of the air conditioner installation, including labor and materials, if Li Hua had previously discussed a budget of $2,000 with a different contractor?",Insufficient information,,Null
+What type of fusion music does Wolfgang Schulz plan to create with Li Hua during their weekend trip to the music store?,Insufficient information,,Null
+What type of flowers were planted in the garden based on the residents' suggestions discussed by Turalyon?,Insufficient information,,Null
+"What type of air-conditioner did Li Hua select for Adam's living room, and how does its temperature regulation compare to the one in the basement?",Insufficient information,,Null
+What were Li Hua's specific fitness goals and how did Jennifer's advice on nutrition influence them during his training for a marathon?,Insufficient information,,Null
+What are the sales figures for the PS5 exclusive games released in 2026 that Thane discussed with group members?,Insufficient information,,Null
+"What specific techniques did Li Hua use to prepare for a marathon race that took place on September 1, 2026?",Insufficient information,,Null
+What food did Emily order for the group's discussion about Game of Thrones characters?,Insufficient information,,Null
+"What type of protein supplements did Li Hua use after the workout on September 19, 2026?",Insufficient information,,Null
+What color was the curtain that Li Hua chose for his living room?,Insufficient information,,Null
+What specific measurements did Li Hua take for the window size before the installation of the curtain?,Insufficient information,,Null
+What is Thane's favorite type of food that he enjoys while playing video games?,Insufficient information,,Null
+What were the specific details of the negotiation between Jake Watson and Li Hua regarding player transfers from FC Barcelona to FC Bayern Munich?,Insufficient information,,Null
+What was the final match score of the 2025 UEFA Champions League final?,Insufficient information,,Null
+What was the exact date and time when Cersei Lannister first met Jaime Lannister in the Game of Thrones series?,Insufficient information,,Null
+What type of dessert did Wolfgang plan to have with Li Hua after their hot pot dinner on a different day?,Insufficient information,,Null
+What did Jennifer say to Li Hua about their plan for a team swimming competition in December?,Insufficient information,,Null
+What strategy did Li Hua use to score a goal in the championship match against their rival team?,Insufficient information,,Null
+What is Li Hua's favorite type of exercise outside of pull-ups?,Insufficient information,,Null
+What time did Chae first suggest they visit the music festival in the morning?,Insufficient information,,Null
+What are the reasons behind Jennifer and Li Hua's decision to change their training routine for the following month?,Insufficient information,,Null
+What specific gifts did Wolfgang buy for Li Hua during his trip to Hong Kong?,Insufficient information,,Null
+What did the riverside café Wolfgang suggested for lunch on January 8th look like?,"The café had outdoor seating shaded by large umbrellas, overlooked a calm river lined with green trees, and had a warm, inviting atmosphere.",['20260105_1100'],Single
+"What did the living room look like on January 5, 2026, before Li Hua moved in?","The living room was bright and cozy with a blue sofa, a coffee table, houseplants by the window, and moving boxes stacked in one corner.",['20260105_1400'],Single
+"How did LiHua's bedroom appear on January 6, 2026 after unpacking?","The bedroom was tidy and sunlit, with a neatly made bed, a small desk by the window, a potted plant on the windowsill, and personal items on the bookshelf, creating a cozy atmosphere.",['20260106_0900'],Single
+"What was wrong with the kitchen tap on January 6, 2026?","The kitchen tap was leaking at the base, causing a small puddle of water on the countertop.",['20260106_1300'],Single
+"What did the kitchen water tap look like on January 6th, 2026?","The kitchen water tap was slightly leaking with a small droplet of water hanging from the spout, and its chrome finish reflected the kitchen counter and a nearby dish rack.",['20260106_1500'],Single
+What did the downtown festival look like last year according to Wolfgang's photo?,"The festival featured colorful food stalls, strings of festival lights, and a crowd enjoying street food and live music on a small stage.",['20260106_2000'],Single
+"What did the door hinge look like on January 7th, 2026?","The door hinge was metal, slightly rusted, with visible wear marks on a white door in a brightly lit hallway.",['20260107_1500'],Single
+"What did the café's famous burger look like on January 8, 2026?","The burger had crisp lettuce, ripe tomato, melted cheese, and was served in a glossy brioche bun with golden fries.",['20260108_1100'],Single
+"What did the broken light fixture look like on January 8, 2026?",The modern ceiling light fixture had a cracked glass cover with a few loose shards on the floor beneath it.,['20260108_1900'],Single
+"What did LiHua see from her balcony on the morning of January 9, 2026?","She saw a cityscape with golden sunlight on modern buildings, a river winding through the city, clear skies, and birds flying above.",['20260109_1000'],Single
+"How did LiHua's favorite corner of the living room look on January 9, 2026?","The corner featured a comfy armchair with a soft throw blanket, a side table with a steaming mug and leafy plant, and warm sunlight streaming through large windows onto the wooden floor.",['20260109_1600'],Single
+"What did the riverside path that LiHua discovered on January 10, 2026 look like?","It was a tranquil path lined with tall trees, golden sunlight, and a wooden bench overlooking the water.",['20260110_1400'],Single
+"How did Li Hua's room appear on January 10, 2026?","Li Hua's room was cozy with a blue comforter on the bed, a small wooden desk with a lamp, and a potted plant by the window letting in soft evening light.",['20260110_2100'],Single
+"What did the kickboxing class that WolfgangSchulz attended look like on January 11, 2026?","The class took place in a bright, spacious studio with mirrored walls, where people in athletic gear practiced kickboxing moves toward heavy bags as the instructor demonstrated a high kick at the front.",['20260111_0800'],Single
+What did the café LiHua visited on January 10th look like?,"The café had a cozy atmosphere with wooden tables, potted plants on the windowsills, and sunlight streaming through large windows onto a latte with foam art.",['20260111_1700'],Single
+What did Li Hua's sketch of the studio homepage layout look like before the brainstorming session on Thursday?,"The sketch featured a large header image at the top, navigation links above, a central welcome message, and sections for portfolio, about, and contact, all drawn neatly on lined paper.",['20260309_0900'],Single
+"How did Yuriko Yamamoto's studio appear before the meeting on Thursday, March 9th, 2026?","The studio was bright and airy with large windows, wooden floors, potted plants, colorful art, and a cozy seating area with pillows and a low table.",['20260309_1000'],Single
+How did the fitness studio look when Jennifer reorganized it for spring in March 2026?,"The studio was bright and airy with large windows, neatly arranged yoga mats on polished wooden floors, and fresh green plants in the corners.",['20260309_1200'],Single
+"What did the studio homepage look like when Li Hua tested the new scheduling feature on March 11, 2026?","The studio homepage displayed a clean, modern interface with a calendar view, blue-highlighted available time slots, and a confirmation pop-up for booking.",['20260311_1015'],Single
+"What did the draft for Yuriko Yamamoto's social media post look like on March 11, 2026?","It featured a modern graphic of a smartphone displaying the studio’s homepage with a calendar of available time slots, a 'Book Now' button, pastel colors, and a caption about instant scheduling.",['20260311_1430'],Single
+What information was displayed on the flyer for the community bake sale scheduled for March 15th?,"The flyer announced a community bake sale on Sunday, March 15th at 3 PM in the Community Center Hall, with all proceeds going to local charities.",['20260312_1230'],Single
+What did the studio look like during the last community event Yuriko mentioned in March 2026?,"The studio was bright and cheerful, with children and adults painting at easels, colorful artwork on the walls, and everyone appearing engaged and joyful.",['20260312_1600'],Single
+"What did Hailey's sourdough loaf look like on March 14, 2026?","The sourdough loaf was golden-brown with a rustic, crispy crust, a dusting of flour on top, and a soft, airy crumb inside.",['20260314_1700'],Single
+"What was on LiHua's kitchen table on March 17, 2026?","A rustic sourdough loaf, a glass bottle of fresh milk, a small vase with spring flowers, and a bread knife were on the sunlit table.",['20260317_0800'],Single
+What did the website homepage look like when LiHua shared a preview before the Thursday meeting in March 2026?,"The homepage featured a large header image of Central Perk café with cozy wooden tables, soft lighting, people enjoying coffee, a sleek navigation bar, and a welcoming message in stylish fonts.",['20260317_1530'],Single
+"What did the living room look like during the last jam session before Yuriko was invited on March 18, 2026?","The living room was cozy and sunlit, with three people playing guitars and keyboard in a circle, colorful posters on the wall, and mugs of coffee on the table.",['20260318_1427'],Single
+"What did Hailey's bread and milk look like on March 18, 2026?","The bread was golden-brown and crusty, cooling on a wooden rack next to a pitcher of creamy milk with sunlight streaming in.",['20260318_1500'],Single
+"What did the living room look like during the jam session before March 18, 2026?","The living room was cozy with warm lighting, musical instruments scattered around, and Wolfgang playing guitar while LiHua sat nearby with a microphone.",['20260318_1510'],Single
+"What did LiHua's living room look like on March 18, 2026?","LiHua's living room had two guitars propped against a couch, a setlist notebook open on the coffee table, and soft afternoon light coming through the window.",['20260318_1530'],Single
+"How did Wolfgang's basement look during his last jam session before March 19, 2026?","The basement had a drum kit, an electric bass on a stand, colorful string lights on the ceiling, comfy chairs, and a table with snacks and drinks, creating a warm and inviting atmosphere.",['20260319_1600'],Single
+"What did the living room look like during the last jam session LiHua mentioned on March 19, 2026?","The living room was cozy with music stands, a drum set, guitars on stands, three friends laughing, open sheet music, pizza boxes, and warm string lights overhead.",['20260319_1900'],Single
+"What did the honey oat bread Hailey left for Li Hua on March 20, 2026, look like?","The bread was golden-brown with a rustic, glossy crust sprinkled with oats, resting on a wooden cutting board in soft sunlight.",['20260320_0800'],Single
+How was ChaeSong-hwa's backyard set up on March 20th for the bonfire party?,"The backyard featured a circle of wooden chairs around a bonfire, string lights between trees, and a small table with snacks and drinks.",['20260320_1800'],Single
+"What did Li Hua's bread delivery look like on the morning of March 23, 2026?","The bread was a golden, crusty loaf with steam rising from it, placed on a wooden cutting board beside a melting pat of butter in warm morning light.",['20260323_0800'],Single
+"What did LiHua's setup look like before the jam session on March 24, 2026?","LiHua's setup featured a sunburst electric guitar on a stand, a small amp, colorful string lights, and an open notebook with handwritten song ideas on a stool.",['20260324_1200'],Single
+"What exercises did Jennifer include in the workout plan shared on March 25, 2026?","The workout plan included squats, lunges, deadlifts, and balance drills.",['20260325_1900'],Single
+"What did the PDP Concept drum kit that Wolfgang shared on March 26, 2026, look like?","The drum kit had a sleek matte black finish with chrome hardware, shining cymbals, and a comfortable drum stool nearby.",['20260326_1600'],Single
+How did the rosemary focaccia baked on March 27th look?,"It was golden-brown with cherry tomato halves, fresh rosemary, and a sprinkle of sea salt on top.",['20260327_0800'],Single
+"What did the recycling poster in the building's lobby look like on March 28, 2026?","The poster was colorful, showed labeled bins for paper, plastic, glass, and metal with sorting tips, and featured a cheerful earth illustration surrounded by recycling arrows.",['20260328_1500'],Single
+"What did the living room look like during the last jam session with Yuriko, LiHua, and Wolfgang?","The living room had colorful string lights on the ceiling, music sheets on the coffee table, and the three friends playing their instruments while laughing together.",['20260329_1000'],Single
+"Who was pictured preparing the first delivery with Hailey on March 29, 2026?",Alice was pictured smiling in the bakery beside baskets of fresh bread and bottles of milk.,['20260329_1300'],Single
+"How did the loaf of bread look when Hailey packaged it on March 30, 2026?",The loaf was rustic and golden-brown with a crisp crust and a dusting of flour on top.,['20260330_0800'],Single
+"What payment details did Adam provide to Li Hua on March 30, 2026?","Adam provided his name, account number, and the amount due for rent in a clearly labeled digital banking interface.",['20260330_1800'],Single
+"What did Hailey's cinnamon rolls look like on March 31, 2026?","The cinnamon rolls were golden-brown with swirls of cinnamon and sugar, topped with melting creamy vanilla icing.",['20260331_1400'],Single
+"How did LiHua's living room appear on March 31, 2026?","The living room was bright and tidy, featuring a soft gray sofa, a small coffee table with fresh flowers, sunlight streaming through large windows, a neatly arranged bookshelf, and a potted plant in the corner.",['20260331_1700'],Single
+"What did the drum kit Wolfgang Schulz shared on April 1, 2026, look like?","It was a glossy, high-end drum kit with deep red lacquered shells, polished chrome hardware, and sparkling cymbals on a small stage.",['20260401_1500'],Single
+"What did Hailey Johnson's gluten-free bread look like when she announced it on April 2, 2026?","The gluten-free bread loaves were golden-brown with crisp crusts, lightly dusted with flour, and looked soft and airy inside.",['20260402_0830'],Single
+What did the rehearsal space look like after the session last Sunday?,"The rehearsal space was cozy and bathed in warm, golden light, with a drum set, electric bass, and guitar on stands, and sheet music and coffee mugs scattered on a rug.",['20260402_1900'],Single
+"What did the bread delivered by Alice on April 3rd, 2026 look like?","The bread was a rustic, golden-brown loaf with a crisp, split top, resting on a wooden board and dusted with flour.",['20260403_0800'],Single
+"How did Li Hua appear during her last training session on April 3, 2026?","Li Hua was smiling confidently while lifting dumbbells, looking energized and determined with bright natural light streaming in behind her.",['20260403_1500'],Single
+What was LiHua doing during the last jam session?,LiHua was smiling while strumming an acoustic guitar.,['20260405_1000'],Single
+What topics were listed for the community medical knowledge lecture hosted by ChaeSong-hwa on Saturday at 7 PM?,"The topics listed were preventing common illnesses, nutrition basics, and a Q&A session.",['20260407_1900'],Single
+"What did LiHua's living room look like on April 8, 2026?","LiHua's living room had two guitars by a sunlit window, a small drum kit near a comfy couch, and a stack of Beatles vinyl records on the coffee table.",['20260408_1300'],Single
+"What did the living room look like during one of Wolfgang, LiHua, and Yuriko's first jam sessions?","The living room was cozy, filled with a drum set, an acoustic guitar, a keyboard, sheet music scattered on the coffee table, and sunlight streaming in through the window while the three friends laughed together.",['20260410_1100'],Single
+"What was featured on the flyer for the community medical knowledge lecture on April 11, 2026?","The flyer included illustrations of a stethoscope, fruits, and a heart, with bold text announcing the lecture and event details.",['20260411_1600'],Single
+"What was Dr. ChaeSong-hwa doing during the medical lecture on April 11, 2026?",Dr. ChaeSong-hwa stood beside a large screen displaying a colorful brain scan and gestured animatedly while explaining a complex concept.,['20260411_2100'],Single
+What did the sourdough loaves look like for the bakery's anniversary event in April 2024?,"The sourdough loaves were golden-brown with beautifully cracked crusts, lightly dusted with flour, and displayed on wire racks in a cozy bakery kitchen.",['20260413_2100'],Single
+"What surgical instruments were highlighted in the photo LiHua shared on April 14, 2026?","The photo featured surgical scalpels, delicate retractors, forceps, and a surgical microscope arranged on a sterile tray.",['20260414_1600'],Single
+"What was ChaeSong-hwa doing during her class in the week of April 14, 2026?",ChaeSong-hwa was demonstrating a surgical technique to a group of medical students gathered around an operating table.,['20260414_1700'],Single
+What did the jam session setup look like on the Sunday when Yuriko was absent?,"The setup featured two guitars against a couch, a keyboard on a small table, string lights across the window, and open music sheets on the coffee table.",['20260416_1900'],Single
+What instruments were visible during the last jam session mentioned by YurikoYamamoto?,"An electric guitar, a bass, and a drum set were visible in the cozy room.",['20260416_2100'],Single
+"What features did Adam include in his sketch of the community garden on April 17, 2026?","The sketch showed curved pathways with benches, flower beds of lavender and coneflowers, a dedicated herb section with basil, mint, and rosemary, and people relaxing among butterflies and bees.",['20260417_1100'],Single
+"What was Li Hua doing during her last session with Jennifer Moore before April 17, 2026?","Li Hua was mid-deadlift in the gym, focused and determined, with Jennifer nearby offering encouragement.",['20260417_1200'],Single
+"What pastries were displayed at Hailey's bakery on April 17, 2026?","The display case featured cream-filled eclairs, fruit-topped tarts, and flaky croissants arranged under warm shop lights.",['20260417_2000'],Single
+"What did the dessert table at the anniversary event on April 18, 2026 look like?","The dessert table was covered with white linen and featured assorted pastries like raspberry tarts, chocolate éclairs, fruit danishes, and macarons, with colorful balloons and an 'Anniversary Celebration' banner in the background.",['20260418_1500'],Single
+What did the raspberry tart served at last year's annual event look like?,"It was golden-brown, topped with fresh raspberries and powdered sugar, with a slice already served on a plate beside it.",['20260418_1530'],Single
+What kind of pastries did Wolfgang get from Hailey's bakery before the party in April?,"Wolfgang got golden croissants, fruit tarts with glossy berries, and delicate eclairs dusted with powdered sugar.",['20260419_2100'],Single
+"What did the fitness bag offered to Li Hua by Jennifer Moore look like on April 20, 2026?","The fitness bag was sleek, black and teal with multiple zippered compartments, a sturdy shoulder strap, and the gym’s logo printed on the side.",['20260420_2100'],Single
+What did the karaoke room look like during one of ChaeSong-hwa's past karaoke nights?,"The karaoke room was cozy with colorful lights, music-themed posters, friends laughing together, and snacks and drinks on a low table.",['20260421_1600'],Single
+What did Li Hua's guitar setup look like after moving in April 2026?,"Li Hua's guitar was a sleek, sunburst-finish acoustic resting on a cozy armchair, with music sheets and a cup of coffee nearby in warm afternoon light.",['20260424_2100'],Single
+What did the living room look like during the last jam session Li Hua mentioned?,"The living room was cozy, with three friends surrounded by guitars and a keyboard, laughing and playing music together under warm string lights, with sheet music scattered on the coffee table.",['20260425_2100'],Single
+What did the living room look like during last Sunday's jam session?,"The living room had warm lighting and four friends gathered in a circle with their instruments, music sheets on a small table, and everyone looking relaxed and happy.",['20260425_2330'],Single
+"How did the garden appear when Adam shared the photo on April 26, 2026?","The garden had patches of grass, overgrown bushes, a small stone pathway, an old wooden bench under a tree, and a weathered wooden fence.",['20260426_1000'],Single
+"What did the community garden look like when IllidanStormrage shared the photo on April 26, 2026?","The community garden was filled with colorful native flowers, winding stone paths, and children’s hand-painted flower pots lining the borders, with people gathered and picnic tables set up in the background.",['20260426_1330'],Single
+"What scene did LiHua share for inspiration on April 27, 2026?","LiHua shared a photo of a vibrant community garden with wooden benches, colorful flower beds, a winding stone path leading to a picnic table under a large tree, string lights overhead, people relaxing, children playing, and butterflies around the flowers.",['20260427_1030'],Single
+"What did the living room look like during the band's last jam session before April 27, 2026?","The living room was cozy with instruments scattered around, an electric guitar on the couch, a drum kit in the corner, a keyboard by the window, sunlight streaming in, and colorful posters on the walls while everyone was laughing mid-song.",['20260427_1430'],Single
+"What did the bread selection at Hailey's bakery look like on the morning of April 27, 2026?","The display featured a variety of freshly baked breads, including baguettes, sourdough loaves, brioche buns, and multigrain rolls, all arranged on wooden shelves with a 20% off sign.",['20260427_1500'],Single
+"What did LiHua's workout setup look like on April 28, 2026?","LiHua's setup featured a yoga mat, resistance bands, a foam roller, two large water bottles on a small table, and a phone displaying a hydration app, all bathed in sunlight from a nearby window.",['20260428_1700'],Single
+What did the table look like the last time Wolfgang and LiHua visited their favorite Italian restaurant?,"The table was set for two with plates of steaming pasta, soft candlelight, and a basket of fresh bread in the center.",['20260428_1830'],Single
+How was the basement arranged for Li Hua's jam session in April 2026?,"The basement featured a drum set, electric guitars on stands, a keyboard, friends tuning their instruments, and soft string lights hanging from the ceiling.",['20260429_1700'],Single
+"How did the basement storage shelves appear on April 29, 2026?",The storage shelves were neatly arranged with labeled boxes stacked and tools hanging in an orderly manner on the wall.,['20260429_1800'],Single
+"What did Venedia Grancaffe look like on the evening of April 30th, 2026?","Venedia Grancaffe featured marble tables, plush velvet chairs, a wall lined with wine bottles, and large windows letting in golden evening light, with tables set in crisp white linens and sparkling glassware.",['20260430_1700'],Single
+What did the community garden look like in the photo AdamSmith shared last spring?,"The garden was vibrant with colorful tulips, daffodils, native wildflowers, lush greenery, and sunlight filtering through young trees onto a stone path.",['20260501_1600'],Single
+"How did JenniferMoore demonstrate a towel grip pull-up on May 4, 2026?","JenniferMoore showed a pull-up performed by gripping two sturdy towels draped over a pull-up bar, with her forearms visibly engaged in a gym setting.",['20260504_1600'],Single
+"What was the atmosphere like when the group brainstormed band names on May 5, 2026?","The group sat in a cozy living room, laughing and collaborating with instruments in hand and band name ideas scattered across the table under warm string lights.",['20260505_1900'],Single
+"What did the 'Contact Form 7' plugin interface look like when Yuriko shared it on May 6, 2026?","It showed a clean, white dashboard with a simple form editor, fields for name, email, subject, and message, and a blue 'Save' button at the bottom.",['20260506_1200'],Single
+"What flowers had Turalyon bought for the garden as of May 7, 2026?","Turalyon had bought bluebells with delicate blue petals, camellias with deep pink blooms, and bright red and yellow tulips.",['20260507_1600'],Single
+What treats did Hailey recommend to LiHua for Mother’s Day in May 2026?,Hailey recommended raspberry-filled croissants and chocolate eclairs.,['20260508_0800'],Single
+What did the trail JenniferMoore visited last week look like?,"The trail wound through tall trees to a hilltop overlooking a blue lake, with runners visible in the golden sunset light.",['20260508_1730'],Single
+What did the band's practice space look like during their last session playing 'Blackbird'?,"The band practiced in a softly lit living room with string lights draped across the walls, surrounded by musical instruments and scattered sheet music, while everyone looked relaxed and happy.",['20260509_1830'],Single
+"What stretch did Raze demonstrate on May 10, 2026?",Raze demonstrated a shoulder dislocate stretch using a resistance band in a gym setting.,['20260510_1130'],Single
+"What did the community garden layout look like as of May 11, 2026?","The garden layout featured rectangular flower beds along the edges, benches in a semi-circle, open grassy areas in the center, lightly outlined pathways, and small circles marking potential spots for trees or larger plants.",['20260511_1000'],Single
+What details were featured on the flyer for the web design seminar on Thursday?,"The flyer displayed 'Web Design Seminar – Thursday, 3 PM,' a modern workspace with a laptop showing a colorful website mockup, design tool icons, and the company logo.",['20260511_1100'],Single
+"What was shown alongside the sheet of music Wolfgang shared before the jam session on May 12, 2026?",A pair of drumsticks rested beside the hand-drawn sheet of music on a wooden desk.,['20260512_1600'],Single
+"What new class did Jennifer Moore announce on May 13, 2026?",Jennifer Moore announced a new yoga class on the schedule.,['20260513_0900'],Single
+"What did the bakery counter display for the summer promotion on May 14, 2026?","The bakery counter featured colorful scoops of mango and coconut ice cream, golden pastries with chocolate drizzle and fresh fruit, summer-themed decorations, and a vase of sunflowers.",['20260514_1400'],Single
+"What was on the table during LiHua and Wolfgang's dinner on May 14, 2026?","The table was set with plates of pasta and steak, an elegant chocolate dessert, and glasses of red wine.",['20260514_2200'],Single
+"What did Wolfgang Schulz share to inspire the group on May 15, 2026?","He shared a photo of a cozy living room with musical instruments, coffee mugs, and notebooks arranged for a relaxed jam session.",['20260515_1000'],Single
+"What seating arrangement did Turalyon suggest for the garden on May 16, 2026?",Turalyon suggested arranging the seating in a circle or semi-circle so people can face each other and enjoy the view.,['20260516_1000'],Single
+What did the gym that LiHua visited last week look like?,"The gym was spacious and modern, with rows of treadmills and bikes near large windows, lots of natural light, and a section for free weights and strength machines.",['20260112_1000'],Single
+"What scene inspired Li Hua when thinking about fitness goals on January 12, 2026?","A sunrise over a quiet park with a winding running path, early-morning joggers, and lush green trees.",['20260112_1500'],Single
+How did LiHua's living room look before the Chinese Lunar New Year celebration on January 18th?,"The living room was decorated with bright red lanterns, zodiac animal paper cuttings on the windows, and a festive table with tangerines and lucky envelopes.",['20260113_1100'],Single
+"How did Li Hua position herself while practicing the squat variation on January 14, 2026?",Li Hua stood on a yoga mat in her bright living room with arms extended forward and feet shoulder-width apart.,['20260114_1200'],Single
+"How was the gym prepared for the training session on January 15, 2026?","The gym was brightly lit with neatly arranged dumbbells, yoga mats rolled out, water bottles lined up on a bench, and motivational posters on the walls.",['20260114_1700'],Single
+What did the fitness section at Target look like during JenniferMoore's visit in January 2026?,"The fitness section featured neatly arranged racks of colorful yoga mats on the left and a variety of dumbbells in different weights and colors stacked on shelves to the right, with clear signage and an organized, brightly lit aisle.",['20260115_0800'],Single
+"What did LiHua's dinner look like on January 15, 2026?","LiHua's dinner featured a baked salmon fillet on quinoa, steamed broccoli, and a wedge of lemon, served with a glass of water.",['20260115_1645'],Single
+"How was LiHua's dining table decorated for the evening of January 18, 2026?","The dining table was warmly lit with neatly arranged plates and chopsticks, colorful lanterns overhead, and several dishes of Chinese cuisine including dumplings, stir-fried vegetables, and hot pot.",['20260118_1200'],Single
+"What did the street festival look like during the Lunar New Year celebrations on January 19, 2026?","The festival featured rows of glowing red lanterns overhead, crowds in festive attire, food stalls steaming with dumplings and skewers, and fireworks lighting up the sky.",['20260119_0930'],Single
+What did AdamSmith's family dinner look like during last year's Lunar New Year?,"The dining table was filled with steaming dumplings, glossy rice cakes, stir-fried greens, a large bowl of fish, and decorated with red lanterns and gold accents.",['20260119_1130'],Single
+"What was Li Hua doing during her workout on the morning of January 19, 2026?",Li Hua was smiling in a bright gym while holding a set of dumbbells.,['20260119_1430'],Single
+"What did the garden design plan shared by Turalyon on May 18, 2026 show?","The plan displayed colorful sketches of flower beds, winding pathways, benches, and a children's play area shaded by trees, surrounded by collaborative notes and gardening tools.",['20260518_1000'],Single
+"What did LiHua's Basque burnt cheesecake look like on May 19, 2026?","It had a caramelized dark brown top, a creamy pale center, and was garnished with dried tangerine peel slices and bright red hawthorn berries on a rustic wooden plate.",['20260519_1200'],Single
+"What did LiHua's garden look like on May 20, 2026?","The garden was under renovation with piles of soil, scattered construction tools, workers in bright safety vests, a cement mixer, and much of the greenery covered by tarps and debris.",['20260520_1500'],Single
+"What was Li Hua doing during the last session before May 21, 2026?","Li Hua was performing a deadlift with a loaded barbell, looking focused and determined.",['20260520_1800'],Single
+"What did The Lighthouse Cafe look like on May 20, 2026?","The cafe was warmly lit with sunlight streaming through large windows onto wooden tables, a few people working on laptops with coffee and pastries, and a small jazz band setting up on a corner stage.",['20260521_1500'],Single
+What did the band's rehearsal space look like during their last jam session before Sunday?,"The band rehearsed in a cozy, warmly lit basement filled with guitars, a keyboard, posters, and empty coffee cups, with everyone laughing and singing together.",['20260521_2000'],Single
+What did the group of participants look like during last year's outdoor class shared by JenniferMoore in May 2026?,"The group stood smiling on a grassy hilltop with yoga mats and water bottles, surrounded by trees and mountains under a clear blue sky.",['20260522_1600'],Single
+"What features were included in ChaeSong-hwa's proposed garden layout shared on May 22, 2026?","The layout included a circular garden with a play area featuring swings and a climbing structure on soft mats, curving paths through tall flower beds, shaded rest areas with benches facing the flowers, decorative signs, and trees for shade.",['20260522_2000'],Single
+What was on the table the last time Wolfgang and LiHua visited their favorite Italian restaurant?,"There was a flickering candle, two glasses of red wine, and plates of steaming pasta topped with fresh basil and parmesan cheese.",['20260523_1400'],Single
+"What did the karaoke room look like during ChaeSong-hwa and LiHua's last session before May 25, 2026?","The karaoke room was cozy with colorful disco lights, friends laughing and singing into microphones, and a table covered with snacks and drinks.",['20260525_1500'],Single
+"What was the main concern discussed by the group on May 26, 2026?",The group was concerned about the disruptive noise from ongoing garden construction.,['20260526_1540'],Single
+"What type of benches did the group discuss using for the garden on May 27, 2026?",The group discussed using stone benches for their durability and natural look.,['20260527_1000'],Single
+"What kinds of pastries were featured for the baking class announcement on May 27, 2026?",Golden croissants and crusty baguettes were shown on a rustic wooden table.,['20260527_1600'],Single
+What did YurikoYamamoto's Japanese bento look like last week?,"It featured steamed rice with black sesame seeds, grilled salmon, edamame, tamagoyaki, cherry tomatoes, and pickled radish arranged in colorful sections.",['20260527_2300'],Single
+"What did LiHua's planned work nook look like on May 28, 2026?","It featured a sunlit corner with a small desk, a comfy chair with a soft blanket, potted plants on the windowsill, and warm fairy lights above.",['20260528_1500'],Single
+"What song did the group plan to revisit during their jam session on Sunday after May 29, 2026?",The group planned to revisit 'The History of Everything' from Big Bang Theory.,['20260529_1700'],Single
+"How did the banana durian cheesecake appear when Hailey finished it on May 31, 2026?","It had a creamy, pale yellow filling with thin banana slices and powdered sugar on top, set on a golden-brown crust.",['20260531_2000'],Single
+What payment details did Li Hua have prepared for Adam Smith at the beginning of June 2026?,"Li Hua had Adam Smith's name, bank account number, and the rent amount filled in on a banking app transfer page.",['20260601_1600'],Single
+"What did LiHua's workspace look like on the morning of June 2, 2026?","LiHua's workspace featured a cozy café with sunlight, a cup of coffee, an open laptop on a wooden table, and leafy plants in the background.",['20260602_1000'],Single
+"What did the Hazelnut Basque Roasted Cheese cake look like on June 3, 2026?","The cake had rustic caramelized edges, a glossy hazelnut glaze on top, and was presented on a parchment-lined wooden board with hazelnuts and morning light streaming in.",['20260603_0945'],Single
+"What did the garden area look like on June 4, 2026, after the benches were installed?","The garden had freshly installed wooden benches in a semi-circle with wet paint signs and roped off, surrounded by green grass, budding flower beds, and some gardening tools by the fence.",['20260604_1800'],Single
+What was displayed at the gym's entrance area in early June 2026?,"A bright bulletin board covered with colorful sticky notes of motivational quotes and members' goals, topped with a sign reading 'Every Step Counts!' was displayed.",['20260605_1100'],Single
+"What was the condition of the streetlight on June 5, 2026?","The streetlight was tall, its lamp was flickering dimly, and the surrounding area was mostly in shadow.",['20260605_1845'],Single
+"What breathing technique did Jennifer Moore recommend for running on June 6, 2026?",Jennifer Moore recommended inhaling for three steps and exhaling for two steps to improve stamina while running.,['20260606_0900'],Single
+"What did the band's practice space look like during one of their first sessions, as shared by WolfgangSchulz on June 6, 2026?","The space was a cozy living room with music stands, cables, and instruments scattered around, three friends enjoying themselves, and a plate of cookies on a small table under warm lighting.",['20260606_1945'],Single
+"How did the garden bed appear on June 8, 2026?","The garden bed was filled with clusters of colorful flowers—pinks, yellows, and purples—set in rich soil, with wooden benches nearby and sunlight filtering through the trees.",['20260608_1400'],Single
+What was the atmosphere like during the jam session last Sunday?,"The atmosphere was joyful and relaxed, with people smiling and laughing while playing instruments together in a cozy living room.",['20260608_1430'],Single
+"What did LiHua's backyard look like on June 9, 2026?","The backyard had patches of dirt, construction tools scattered around, new wooden planters being installed, and a couple of workers present under a bright afternoon sun.",['20260609_1300'],Single
+What was written on the whiteboard during the start of the core challenge next week?,The whiteboard read 'Core Challenge – Day 1' in bold letters.,['20260609_1620'],Single
+What was the atmosphere like during the group run at the park last weekend?,"The group run was energetic and cheerful, with people running together along a sunlit trail beneath lush green trees.",['20260610_1600'],Single
+"What did the high-protein breads look like when Hailey introduced them on June 11, 2026?","They were golden-brown loaves cooling on a wooden rack, with some sliced open to reveal a dense crumb filled with seeds and grains, and labeled 'High-Protein Power Bread.'",['20260611_1245'],Single
+"What features were present in the children's play area as of June 12, 2026?","The children's play area included a colorful slide, swings, a climbing frame on bright soft mulch, neat wooden fencing, green grass, young trees, and nearby cheerful benches.",['20260612_1500'],Single
+"What did the group's setup look like during their last jam session, as mentioned by Chae Song-hwa?","The group was in a cozy living room with guitars on stands, a drum set in the corner, lyric sheets on the coffee table, and everyone laughing under warm lamplight.",['20260613_1045'],Single
+"What were Jennifer and Li Hua doing during their last session before June 16, 2026?","They were mid-workout in a bright gym, smiling and giving a thumbs-up.",['20260615_0900'],Single
+"What did the backyard look like on June 15, 2026, during the garden construction?","The backyard was sunny with half-built raised garden beds, piles of soil, gardening tools, some colorful flowers along the edges, and people in work gloves tending to the beds.",['20260616_1040'],Single
+What details were displayed at the bottom of the local music festival poster LiHua shared on June 17th?,"The bottom of the poster clearly displayed the date, time, and location of the festival.",['20260617_1700'],Single
+What did Hailey's croissants look like before the baking class in June 2026?,"They were golden, flaky, and fresh out of the oven, with crispy layers and a dusting of flour on the countertop.",['20260618_1130'],Single
+What details were included on the flyer for the nutrition talk scheduled for June 24?,"The flyer featured a smiling athlete holding a bowl of salad, announced the special guest speaker, listed the event as Wednesday, June 24 at 6 PM in the Wellness Center Auditorium, and mentioned free snacks and a Q&A session.",['20260619_0815'],Single
+What did the community garden look like last weekend according to Chae Song-hwa?,"The garden featured lush green shrubs, some blooming flowers, a partially completed stone pathway, and construction barriers in the background.",['20260620_1845'],Single
+What did the rehearsal space look like during the last jam session shared by Wolfgang Schulz?,"The rehearsal space was a cozy basement decorated with colorful string lights, with instruments scattered around and the group laughing together amid open snack bags and soda cans on a small table.",['20260621_1645'],Single
+"What did the room look like during the last jam session before June 21, 2026?","The group was in a cozy living room filled with guitars, a keyboard, a drum set, warm string lights, and posters of classic bands, all while laughing and mid-song.",['20260621_1900'],Single
+"How did Li Hua prepare for the training session on June 22, 2026?","Li Hua set up a neatly arranged workout space with a yoga mat, dumbbells, a water bottle, and bright sneakers in a sunlit room with motivational posters.",['20260622_1100'],Single
+What did the bakery display look like before the healthy bread tasting event on Saturday?,"The bakery table was covered with assorted freshly baked bread loaves, including seeded, whole grain, and vegetable swirl varieties, arranged with bowls of dips and sliced fruit in sunlight.",['20260622_1330'],Single
+What was Li Hua doing during last week's session when she hit her new personal best?,"Li Hua was lifting a barbell with determination in a bright gym, with motivational posters behind her and other gym members cheering her on.",['20260623_1015'],Single
+What did the living room look like during last Sunday's jam session?,"The living room was cozy and sunlit, with an acoustic guitar by the couch, a drum set in the corner, a microphone stand near the window, and sheet music scattered on the coffee table, as the four friends smiled and laughed together.",['20260624_1400'],Single
+How did the band look during their last rehearsal before Sunday?,"The band was smiling and mid-laugh, holding their instruments with colorful stage lights casting a warm glow.",['20260625_1900'],Single
+What did the basement look like during last week's jam session?,"The basement was cozy and dimly lit, with colorful rugs, musical instruments scattered around, and string lights hanging from the ceiling.",['20260625_2000'],Single
+"How did ChaeSong-hwa and her team celebrate their research breakthrough on June 26, 2026?","They gathered in the lab wearing lab coats, smiling around a table with data sheets, laptops, and a cake that said 'Congrats Team!' while balloons floated in the background and one teammate raised a toast.",['20260626_1100'],Single
+"What did the restaurant LiHua suggested on June 27, 2026, look like?","It was a warmly lit noodle restaurant with wooden tables, hanging paper lanterns, and a window overlooking a bustling evening street.",['20260627_1200'],Single
+"Where did Li Hua say the band would meet for rehearsal on Sunday, June 30, 2026?",Li Hua said the band would meet at the basement for rehearsal.,['20260629_1830'],Single
+"What hydration goal did Breach set for June 30th, 2026?",Breach aimed to drink at least 3 liters of water that day.,['20260630_1530'],Single
+"What yoga pose did JenniferMoore share with LiHua on June 30, 2026?",JenniferMoore shared a photo of Tree Pose performed in a serene studio with natural light.,['20260630_1800'],Single
+"What was the weather like on July 1, 2026, according to Tirion Fordring?",There was a storm and rain that had been ongoing for days.,['20260701_1000'],Single
+How did LiHua cope with the garden renovation noise in July 2026?,LiHua moved her work to the café to escape the garden renovation noise.,['20260701_1400'],Single
+"What did the pad thai at the Thai restaurant look like on July 2, 2026?","The pad thai featured glistening rice noodles topped with shrimp, crushed peanuts, bean sprouts, a lime wedge, and fresh green onions on a rustic wooden table.",['20260702_1500'],Single
+"What was the main focus of the resident vote announced on July 2, 2026?",The resident vote was focused on selecting specific types of flowers for the garden.,['20260702_1900'],Single
+"Which song did Yuriko Yamamoto suggest the group practice for their community performance on July 3, 2026?",Yuriko Yamamoto suggested practicing 'Take Me Home Country Roads' by John Denver.,['20260703_1145'],Single
+"What did the exterior of 'Across the Stars' coffee shop look like on July 6, 2026?","The exterior featured large windows, warm golden lighting, a sign with elegant lettering above the door, small tables with potted plants outside, and a chalkboard menu by the entrance.",['20260706_1530'],Single
+"What did the band's living room look like during their last jam session before July 6, 2026?","The living room was cozy with instruments scattered around, everyone laughing mid-song, and sunlight casting a warm glow on the group.",['20260706_1930'],Single
+"What did the basement look like after the rainstorms on July 7, 2026?","The basement was clean, well-lit, with dry concrete floors and no visible water damage or leaks.",['20260707_1600'],Single
+"What did Jett's workout playlist look like on July 8, 2026?","Jett's workout playlist featured energetic pop and EDM songs with vibrant album art, displayed on a smartphone screen set against gym equipment and a water bottle.",['20260708_1400'],Single
+"What features did the community playground that IllidanStormrage shared on July 9, 2026, include?","It featured colorful slides, climbing structures, swings for various ages, a soft mulch ground, shaded picnic tables, and a small interactive area with musical play panels.",['20260709_1000'],Single
+"How did the loaves of bread appear just before delivery on July 10, 2026?",The loaves were golden-brown with glistening crusts and steam rising from them as they cooled on a wooden rack in a rustic kitchen.,['20260710_0830'],Single
+"What kind of atmosphere did ChaeSong-hwa imagine for a relaxing night on July 11, 2026?","A cozy living room softly lit with warm string lights, plush pillows and blankets, herbal tea on a wooden coffee table, and city lights twinkling outside the window.",['20260711_1100'],Single
+"What did the tray of donuts look like on the morning of July 12, 2026?","The tray featured freshly baked donuts in rows with chocolate hazelnut, glossy raspberry, and bright lemon glazes in a sunlit bakery kitchen.",['20260712_1600'],Single
+"What did Jett's meal prep stir-fry look like on July 13, 2026?","Jett's meal prep featured bright green broccoli, red and yellow bell peppers, snap peas, carrots, and grilled chicken over brown rice, all coated in a glossy sauce.",['20260713_1930'],Single
+"What treats did Hailey display on the morning of July 14, 2026?",She displayed sprinkled cake donuts and a red velvet New York cheesecake.,['20260714_1200'],Single
+"What did the community garden look like during the renovation on July 14, 2026?","The community garden had newly laid stone pathways winding between raised flower beds, with workers in bright vests planting shrubs and colorful gardening tools scattered around.",['20260714_1500'],Single
+What was Freddie Mercury wearing during Queen's 1985 Live Aid performance?,Freddie Mercury was wearing a white tank top and jeans.,['20260715_1900'],Single
+"What temperature did the basement thermometer show on the afternoon of July 16, 2026?",The basement thermometer showed 29°C (84°F).,['20260716_1000'],Single
+What was ChaeSong-hwa doing during the band's performance last Sunday?,"ChaeSong-hwa was standing at the microphone, singing mid-note while the audience cheered.",['20260717_1200'],Single
+"What did Jennifer's quinoa salad look like on the night of July 16, 2026?","It was a colorful bowl of quinoa salad with cherry tomatoes, cucumber, red bell pepper, parsley, avocado, and a garnish of fresh herbs, all tossed with lemon vinaigrette.",['20260717_1930'],Single
+"What did the guitar Wolfgang shared on July 18, 2026 look like?","The guitar had a glossy sunburst finish, white pickguard, chrome hardware, and a maple neck with intricate fretboard inlays.",['20260718_1800'],Single
+"What was visible in the drum cover Wolfgang Schulz shared on July 20, 2026?","The video showed a drummer mid-performance with an impressive drum kit, energetic lighting, and the title 'Enter Sandman Drum Cover' at the top.",['20260720_1500'],Single
+"What did ChaeSong-hwa's workspace look like on July 22, 2026?","Her workspace featured a laptop open to a research paper, colorful sticky notes, a mug of tea, and an acoustic guitar by the wall with sunlight streaming in.",['20260722_1300'],Single
+"What type of air-conditioner did Adam Smith recommend for the basement on July 23, 2026?",Adam Smith recommended a split-type air-conditioner for the basement.,['20260723_1400'],Single
+"What exercises were included in the HIIT routine Jennifer shared on July 25, 2026?","The HIIT routine included jumping jacks, mountain climbers, burpees, and squats.",['20260725_1000'],Single
+"How did the user feedback section designed by Li Hua on July 26, 2026, appear?","The section featured a soft pastel background in mint green and blush pink, a simple feedback form with labeled fields and star ratings, and a testimonials area framed by subtle floral patterns.",['20260726_1400'],Single
+"How did Iron Man appear in the Marvel clip that Wolfgang shared on July 26, 2026?",Iron Man was shown hovering mid-air in his red and gold suit with glowing palm repulsors against a dramatic sunset cityscape.,['20260726_1600'],Single
+"What did the maintenance notice posted in the lobby on January 21, 2026, look like?",The notice had a bolded header reading 'Upcoming Building Maintenance – Schedule Pending' and was pinned to a board with a hallway in the background.,['20260121_1000'],Single
+What did the signature burger look like when Wolfgang walked by the new burger place last week?,"The signature burger was stacked high with melted cheddar, crispy lettuce, tomato, pickles, and a toasted brioche bun, served with golden fries.",['20260121_1300'],Single
+"What did Jennifer's Greek yogurt snack look like on January 22, 2026?","Jennifer's Greek yogurt snack was served in a small glass bowl topped with blueberries, raspberries, honey, and chopped nuts.",['20260122_1500'],Single
+"What did Jennifer Moore see during her marathon training session on January 22, 2026?","She saw a scenic park trail in early morning light with tall trees, golden sunlight, and her running shoes and water bottle on a bench.",['20260122_1600'],Single
+"What did the signature burger at the new burger place look like on January 22, 2026?","The signature burger was stacked with a thick beef patty, melted cheddar cheese, crispy bacon, lettuce, tomato, pickles, and BBQ sauce in a toasted sesame seed bun, served with golden fries.",['20260122_1700'],Single
+What did the cafe that Wolfgang discovered last weekend look like?,"The cafe had rustic wooden tables, potted plants on each table, and large windows with an inviting, warmly lit atmosphere.",['20260123_1700'],Single
+"What did LiHua photograph during her walk on January 23, 2026?",She photographed a quiet city park in the late afternoon with golden sunlight streaming through tall trees and a few people strolling in the distance.,['20260123_1730'],Single
+"What did the sunset look like from Li Hua's balcony on the evening of January 27, 2026?","The sunset featured a glowing city skyline with tall buildings silhouetted against deep orange and purple hues, and soft lights appearing in the windows below.",['20260127_2030'],Single
+"How did Li Hua look after her workout on January 28, 2026?","Li Hua appeared energized and happy, smiling beside free weights in her workout gear and holding a water bottle.",['20260128_1900'],Single
+What new features were visible in the community garden after the renovations in July 2026?,"The garden had lush green lawns, colorful flowerbeds, new wooden benches under shady trees, and a large open space for activities.",['20260727_1630'],Single
+"What kind of setup did Wolfgang Schulz suggest for their painting day on the weekend of July 28, 2026?","He suggested a bright, cozy room with sunlight, a table covered in colorful paints, brushes, blank canvases, and a vase of fresh flowers.",['20260728_1800'],Single
+"What kind of air conditioner did Adam describe for the basement on July 29, 2026?","A sleek, white wall-mounted unit installed high on a light gray wall, blending seamlessly with the contemporary decor.",['20260729_1400'],Single
+What did the practice space look like after the last jam session in July?,"The practice space had warm lighting, guitars on stands, a keyboard against the wall, sheet music on a low table, comfy chairs in a circle, and sunlight streaming through the window.",['20260730_1500'],Single
+"What workout essentials did JenniferMoore have arranged on July 30, 2026?","JenniferMoore had black compression leggings, colorful running shoes, a water bottle, a rolled-up yoga mat, wireless headphones, and a small towel neatly arranged.",['20260730_1730'],Single
+"What did the bread sampler table look like at last year's event, according to the photo Li Hua shared on July 31, 2026?","The table was covered with baskets of assorted artisanal breads, small dishes of flavored butters and dipping oils, and sunlight streaming through the bakery window.",['20260731_1300'],Single
+"What did the basement look like during one of the band's first jam sessions, as shared by WolfgangSchulz on August 1, 2026?","The basement was cozy with mismatched rugs, string lights on the ceiling, band members with their instruments, and a whiteboard in the background with song ideas and doodles.",['20260801_1500'],Single
+What did the gallery space look like during last year's photography exhibition?,"The gallery was brightly lit with large photographs on white walls, soft golden light from tall windows, and several people admiring the art.",['20260801_1900'],Single
+"What did the entrance of The Lighthouse Cafe look like on August 2, 2026?","The entrance had large sunlit windows, potted plants by the doorway, and a chalkboard sign with daily specials written in colorful chalk.",['20260803_1300'],Single
+"What did Jennifer Moore's smoothie bowl look like on the morning of August 4, 2026?","Jennifer's smoothie bowl had a bright green base and was topped with sliced banana, strawberries, blueberries, chia seeds, and granola.",['20260804_1400'],Single
+"What did the group's living room look like during their last jam session before August 4, 2026?","The living room was cozy with instruments scattered around, everyone laughing mid-song, and snacks and drinks on the coffee table as sunlight streamed in.",['20260804_1630'],Single
+"What did the new burger place look like on August 5th, 2026?","The burger place had neon signs, wooden tables, colorful burger-themed artwork on the wall, and a counter displaying fresh buns and toppings.",['20260805_1600'],Single
+"How was Wembley Stadium displayed at the exhibition on August 5, 2026?","A large photo of Wembley Stadium at dusk, with its glowing arch and vivid colors, was showcased on a gallery wall as visitors gathered around.",['20260805_2130'],Single
+"What features did MalfurionStormrage highlight in the community garden example shared on August 6, 2026?","The garden featured raised beds with vegetables and flowers, a composting area, recycling bins by a bench, cheerful signs with composting tips, and a noticeboard for workshops.",['20260806_1630'],Single
+"What did Yuriko Yamamoto's final logo look like on August 7, 2026?","The final logo was a clean, circular design with soft blue and green gradients, a stylized speech bubble at the center, playful hand-drawn stars, and a friendly sans-serif studio name beneath.",['20260807_1200'],Single
+"What did the air conditioner model look like that Adam planned to install as of August 9, 2026?","The air conditioner was a sleek, white wall-mounted unit with a digital display on the front and a slim remote control.",['20260809_1200'],Single
+"What was displayed at the top of the warranty summary page Li Hua shared on August 10, 2026?",The air conditioner's brand logo was displayed at the top.,['20260810_1800'],Single
+"What stretches were demonstrated in the photo Li Hua shared on August 11, 2026?","The photo showed a hamstring stretch, a quad stretch, and a seated forward fold performed on a yoga mat in a bright gym.",['20260811_1100'],Single
+"What did the basement look like before the AC installation on August 12, 2026?","The basement was spacious and unfinished, with exposed brick walls, a concrete floor, and a few boxes stacked in the corner, and an empty spot on the far wall marked with blue painter’s tape for the AC unit.",['20260812_1100'],Single
+"What did the forest trail look like during WolfgangSchulz's last hike before August 13, 2026?","The forest trail was lush with tall pine trees, golden sunrise light, mist over the ground, and a narrow dirt path winding ahead.",['20260813_1730'],Single
+"What was the community planning for August 14, 2026?",The community was organizing a garage sale to connect and declutter while garden renovations were underway.,['20260814_1500'],Single
+"What did Jennifer Moore share with the group on August 16, 2026?",Jennifer Moore shared a video on stretching techniques to help with injury prevention.,['20260816_1700'],Single
+"What did the bakery counter display look like during Hailey Johnson's special sale announcement on August 16, 2026?","The bakery counter was brightly lit and featured colorful pastries, breads, and a decorated cake with edible gold stars and sugar flowers, surrounded by holiday ornaments and fresh greenery.",['20260816_2000'],Single
+What was Li Hua doing in the gym photo Jennifer took last month?,"Li Hua was smiling widely while holding a barbell loaded with weights across her shoulders next to Jennifer, who was giving a thumbs-up.",['20260817_1215'],Single
+What did ThaneChambers see when arriving in Toussaint during the Blood and Wine expansion?,"Geralt was on horseback overlooking sunlit vineyards, a fairytale castle, snow-capped mountains, and lush greenery under a clear blue sky.",['20260818_1000'],Single
+"What did the resort setting in The White Lotus look like when Emily described it on August 18, 2026?","The resort featured a lush tropical landscape with palm trees, a sparkling blue pool, white lounge chairs, and an ocean view under a clear sky, with well-dressed guests mingling nearby.",['20260818_1400'],Single
+"What did the soccer field look like when Li Hua sent the photo before their practice on August 19, 2026?","The soccer field was wide and green with well-maintained grass, white goalposts at each end, a few trees along the edge, and a couple of benches nearby under a clear blue sky.",['20260819_1000'],Single
+"What did the neon-lit Tokyo street look like in the screenshot ThaneChambers shared on August 19, 2026?","The street was illuminated at night with cherry blossom petals swirling, the protagonist casting glowing blue fire as debris lifted and a spirit-like enemy hovered near a flickering streetlamp.",['20260819_1800'],Single
+"What did the Rocinante's crew experience during the escape from the Free Navy in Season 6, as discussed by Saffron on August 20, 2026?","The crew was in the cockpit under red emergency lights, their faces tense as they maneuvered through incoming fire and flashing debris during a high-speed pursuit.",['20260820_1400'],Single
+What did the Liverpool players look like after their victory in the 2005 Champions League final?,"The Liverpool players were celebrating in red jerseys with arms raised, confetti falling, and the Champions League trophy gleaming in the foreground.",['20260821_1500'],Single
+"What did the AI robot shown on August 22, 2026 look like?","The AI robot had a sleek white metallic body, glowing blue eyes, and intricate joint mechanisms, and was surrounded by holographic screens in a modern lab.",['20260822_1700'],Single
+"What did the trainer's plank position look like on August 23, 2026?","The trainer held a plank with shoulders over elbows, back straight, core engaged, and feet hip-width apart in a well-lit room with motivational posters.",['20260823_1800'],Single
+"What was the temperature in the basement on August 24, 2026?",The temperature in the basement was 22°C (72°F).,['20260824_1900'],Single
+"What did the group's rehearsal room look like in one of their first jam sessions, as shared by WolfgangSchulz on August 25, 2026?","The rehearsal room was cozy, filled with scattered sheet music, guitar cases, and drums, while everyone laughed mid-song with instruments in hand and sunlight streaming through the window.",['20260825_1045'],Single
+"What did the Toussaint tournament arena look like at sunset on August 26, 2026?","The arena was vibrant with cheering crowds, colorful banners, and golden sunlight illuminating vineyards and a distant castle.",['20260826_1700'],Single
+"How was Shiv Roy portrayed in the scene Merrick shared on August 26, 2026?","Shiv Roy was shown seated at a modern conference table in a tailored cream suit, looking confident and thoughtful with the city skyline behind her.",['20260826_1800'],Single
+"What was Li Hua doing at the gym on August 27, 2026?",Li Hua was holding a perfect plank position on a yoga mat with excellent form.,['20260827_1900'],Single
+What toppings did LiHua have on her burger last weekend?,"LiHua's burger was topped with melted cheddar cheese, crispy bacon, and sliced jalapeños.",['20260828_1000'],Single
+What did the soccer field look like during Jake and Li Hua's practice last week?,"The soccer field was lush and green with a sunset in the background, and Jake and Li Hua were smiling in sportswear with soccer balls scattered on the grass.",['20260829_1100'],Single
+"How did Hailey's donuts appear on August 29, 2026?","The donuts were golden-brown with a light dusting of powdered sugar and some colorful sprinkles, arranged in a circle on a rustic wooden table.",['20260829_1400'],Single
+"What items were on Jennifer's bookshelf on August 31, 2026?","Jennifer's bookshelf held fitness and nutrition books, a water bottle, and a pair of dumbbells.",['20260831_1900'],Single
+What were Wolfgang and LiHua holding during their last visit to the music store?,They were each holding a coffee cup.,['20260901_1000'],Single
+How did Dutch van der Linde's relationship with Arthur change as the story progressed?,"Dutch's relationship with Arthur shifted from close ally and mentor to one marked by tension, manipulation, and growing distrust.",['20260901_1300'],Single
+"Who were the top three most hateable Game of Thrones characters chosen during the group vote on September 2, 2026?","The top three most hateable characters chosen were Joffrey, Ramsay, and Cersei.",['20260902_1600'],Single
+What was happening during Messi's solo goal against Real Madrid in El Clásico as described by LiHua?,Messi was sprinting past three Real Madrid defenders with the ball close to his feet while the crowd rose in anticipation and his focused expression showed the intensity of the play.,['20260903_1700'],Single
+"What did Yuriko Yamamoto's office look like after her session on September 3, 2026?","The office was cozy and sunlit, with two chairs facing each other, a small table holding a notepad and glass of water, a cheerful potted plant by the window, and a certificate hanging on the wall.",['20260903_1900'],Single
+How did Li Hua's niece appear while listening to music last weekend?,"She was lying on a soft blanket with her eyes closed, smiling gently, and wearing a small set of headphones.",['20260904_1000'],Single
+"Who was present with Wolfgang during the jam session before September 6th, 2026?","Four friends, including Wolfgang, were gathered in a cozy living room, each with an instrument.",['20260905_1400'],Single
+"What did the basement look like after the storm on September 7, 2026?","The basement was clean and tidy with concrete floors, a few cardboard boxes stacked against one wall, and a small damp patch near the far corner.",['20260907_1400'],Single
+"What did Wolfgang Schulz's software dashboard look like on September 8, 2026?","The dashboard featured colorful charts, a sidebar menu with icons, and a clean, modern layout displaying project statistics and recent activity feeds.",['20260908_1500'],Single
+"What scene did YurikoYamamoto describe for inspiration on September 8, 2026?","She described a vibrant club stage where a jazz saxophonist and a rock guitarist jam together under colorful lights, with posters of legendary musicians on the brick walls and a relaxed, energetic crowd.",['20260908_2100'],Single
+"What did the camp look like during the campfire night that ThaneChambers mentioned on September 9, 2026?","Arthur Morgan and several gang members sat around a glowing campfire at night, their faces lit by firelight, with tall grass and a starry sky in the background.",['20260909_1000'],Single
+"How were the main characters dressed during the superhero episode mentioned on September 10, 2026?","They were dressed as superheroes, with Sheldon as The Flash, Leonard as Green Lantern, Raj as Aquaman, and Howard as Batman, all posing enthusiastically in their living room.",['20260910_1200'],Single
+What was standing near the entrance of the game store during ThaneChambers's last visit?,A life-size Spider-Man cardboard cutout was standing near the entrance.,['20260911_1400'],Single
+"What was N'Golo Kanté doing during the Champions League final, according to LiHua's description?","He was sprinting across the field, intercepting the ball from an opposing player.",['20260912_1600'],Single
+"What vegetables did Li Hua include in her stir-fry on September 13, 2026?","Li Hua's stir-fry included broccoli, red and yellow bell peppers, and spinach, topped with sesame seeds.",['20260913_1800'],Single
+"What exercise did Jake demonstrate during his training session on September 14, 2026?",Jake demonstrated a single-leg stand while balancing on one leg with his arms outstretched.,['20260914_1000'],Single
+"How was Davos Seaworth depicted on September 15, 2026, according to Rowan's description?","Davos Seaworth was shown standing on the deck of a ship at dawn, with a thoughtful expression, dressed simply, as golden sunlight illuminated his steady and resolute posture.",['20260915_1200'],Single
+"How was the Man in Black depicted during the intense scene discussed on September 16, 2026?","He was standing in a dusty, desolate landscape with his black hat casting a shadow over his stern face, gripping his revolver tightly while facing another character.",['20260916_1600'],Single
+"Who was playing which instruments during the band's last jam session before September 16, 2026?","LiHua was on guitar, YurikoYamamoto was singing, ChaeSong-hwa played keyboard, and WolfgangSchulz was on drums.",['20260916_1900'],Single
+"Who are the two defenders shown side by side during an El Clásico match as described by LiHua on September 17, 2026?","Carles Puyol and Gerard Piqué are shown side by side, both focused and determined as they chase down the ball.",['20260917_1000'],Single
+"What did the new Starbucks Frappuccino look like on September 18, 2026?","The new Starbucks Frappuccino was vibrant, topped with whipped cream and pink and blue syrups, served in a clear cup with the Starbucks logo.",['20260918_1800'],Single
+What did Li Hua's living room look like during the band jam session last weekend?,"The living room was cozy with a small group of friends, guitars and a drum set, warm string lights, and everyone laughing and playing music.",['20260919_1000'],Single
+"What was shown on ThaneChambers' victory screen from their 'Warzone' match on September 20, 2026?",The screen displayed ThaneChambers and their squad celebrating the 'Winner!' banner with fireworks and digital confetti over a chaotic battlefield.,['20260920_1600'],Single
+"What was the main focus of the community discussion on September 21, 2026?",The group focused on connecting the community garden renovation with supporting local businesses.,['20260921_1000'],Single
+"What did the basement window area look like before Adam installed the curtain on September 21, 2026?","The basement window was small and rectangular, set into a plain white wall with a wooden ledge beneath it and some storage boxes nearby.",['20260921_1600'],Single
+"What feature did ThaneChambers recommend exploring on the PS5 on September 22, 2026?",ThaneChambers recommended customizing accessibility features and trying out the Game Help feature.,['20260922_1200'],Single
+"How is Galadriel depicted on the official 'The Rings of Power' poster shared on September 22, 2026?","Galadriel is shown standing at the forefront in ornate armor, her sword gleaming, with a look of determination on her face against a dramatic Middle-earth sunrise.",['20260922_1700'],Single
+What snacks were on the coffee table during the last jam session?,"The coffee table had bowls of chips, pretzels, cut fruit, and a plate of cookies.",['20260923_1600'],Single
+What was Li Hua doing during last week's gym session with Jennifer?,Li Hua was bench pressing with a determined expression while Jennifer spotted behind.,['20260924_2000'],Single
+"What was Li Hua doing on the evening of September 25, 2026?",Li Hua was practicing a hamstring stretch on a yoga mat in her living room with a bright smile and a water bottle nearby.,['20260925_2100'],Single
+"How did the bathroom appear in the photo ChaeSong-hwa shared on September 26, 2026?","The bathroom was softly lit at night with steam rising from a running shower, golden light reflecting off tiled walls, and neatly stacked fluffy towels creating a serene, inviting atmosphere.",['20260926_1030'],Single
+"What did the basement window look like on September 28, 2026?","The basement window was rectangular with a white frame, set in a concrete wall, and had a small ledge with potted plants below it.",['20260928_1000'],Single
+"What did the visual LiHua shared on September 29, 2026, illustrate about binaural tones?","It depicted two colored waveforms entering headphones, merging to create a pulsating rhythm, with highlighted brain regions showing activation by the binaural beat.",['20260929_1100'],Single
+"What was Li Hua doing at the gym on September 30, 2026?",Li Hua was bench pressing a barbell with a focused and determined expression.,['20260930_1400'],Single
+What was on the table the last time LiHua and Wolfgang had hot pot together?,"A steaming hot pot was at the center, surrounded by plates of thinly sliced meats, vegetables, dipping sauces, and glasses of beer.",['20260930_1600'],Single
+"What did the team look like at their last practice before October 1st, 2026?","The team was smiling and posing playfully on a grassy field with soccer balls and orange cones, dressed in sporty attire under the late afternoon sun.",['20261001_1800'],Single
+"What did ThaneChambers see during his favorite moment in Black Myth: Wukong on October 1, 2026?","He saw the protagonist facing a towering, armored giant in a misty mountain landscape with cherry blossom petals and sunlight filtering through twisted trees.",['20261001_2000'],Single
+"What did the software dashboard preview shared by Wolfgang Schulz on October 2, 2026, look like?","The dashboard had a clean white background, an intuitive left-side navigation menu, colorful tool icons, and a central panel showing recent activity and analytics charts.",['20261002_1300'],Single
+What was the atmosphere like during the last soccer training session mentioned before October 4th?,The team was energetic and laughing together near the goal under a bright blue sky.,['20261003_1200'],Single
+"What details were highlighted in Adam's banking app on January 30, 2026?","LiHua's name, the date, and the rent amount were highlighted in green.",['20260130_1000'],Single
+"What did the café LiHua visited on January 31, 2026, look like?","The café had a sunlit, cozy interior with wooden tables, potted plants by the windows, and people quietly reading or working on laptops.",['20260131_1400'],Single
+"What did Li Hua's artwork look like on February 1, 2026?","Li Hua's artwork was a vibrant abstract painting with bold splashes of red, blue, and yellow on a white canvas, featuring textured brushstrokes and dynamic shapes.",['20260201_2000'],Single
+How did Neymar celebrate his goal against Bayern in the 2015 match?,Neymar raised his arms in triumph as he was surrounded by jubilant teammates on the pitch.,['20261005_1005'],Single
+How did Phil Foden celebrate his goal during Manchester City's latest match against Chelsea?,"Phil Foden celebrated by raising his arms and running towards the fans, with his Manchester City teammates behind him as the crowd erupted.",['20261006_1000'],Single
+"What kind of curtain did Adam Smith choose on October 7, 2026?","Adam Smith chose a modern, light gray curtain that lets sunlight filter softly through the fabric.",['20261007_1200'],Single
+What did the forest trail Jennifer planned to hike on look like in October 2026?,"The trail wound through tall pine trees with sunlight streaming through, a clear blue sky above, and golden autumn leaves covering the ground.",['20261008_1400'],Single
+"What did the studio space look like in the photo Wolfgang shared on October 8, 2026?","The studio was warmly lit, with musicians playing acoustic guitar, keyboard surrounded by synthesizers, and working on a laptop amid cables, pedals, and colorful LED lights.",['20261008_1600'],Single
+"What did the Star Wars: A New Hope poster look like for the movie night on October 9th, 2026?","The poster was vibrant and vintage, featuring Luke Skywalker with a glowing lightsaber, Princess Leia, Darth Vader's helmet in the background, and X-wing fighters above the Death Star.",['20261009_1700'],Single
+"How was Cersei Lannister depicted in the scene EmilyBurnett described on October 10, 2026?","Cersei was standing alone by a massive window in the Red Keep, dressed regally but appearing tense and distant, with the dim sunlight emphasizing her isolation.",['20261010_1010'],Single
+"What was happening in the scene from 'Life is Strange' that Dyllan shared on October 11, 2026?","Max was reaching out to her friend Kate, who was standing distraught on a rooftop ledge during a storm, highlighting a tense and emotional choice moment.",['20261011_1100'],Single
+What did Li Hua's living room look like after she received the new curtains in October?,Li Hua's living room featured bright windows with new curtains displaying intricate blue and gold floral patterns that allowed soft light to brighten the cozy space.,['20261012_1000'],Single
+How was Li Hua's plank form during last week's session?,Li Hua held a strong plank position with straight alignment from head to heels and a focused expression.,['20261012_1400'],Single
+"What did the garden look like on October 13, 2026 when LiHua shared her update?","The garden featured freshly installed wooden benches between blooming tulips and daisies, with butterflies hovering above the flowers and sunlight filtering through the trees.",['20261013_1330'],Single
+"What did the scene from the upcoming game's trailer look like on October 14, 2026, as described by ThaneChambers?","The scene showed a shadowy, futuristic alley lit by neon signs with three player characters in dark armor crouched behind crates while enemy drones patrolled overhead amid dramatic blue and purple lighting.",['20261014_1400'],Single
+How did the Santiago Bernabéu stadium appear during Real Madrid's comeback against Manchester City in 2022?,"The stadium erupted in celebration with players running toward the corner flag and fans waving white scarves, some in tears, all lit by bright stadium lights.",['20261014_2000'],Single
+"What did the pizza from the new downtown place look like on October 15, 2026?","The pizza had bubbling mozzarella, colorful roasted vegetables, fresh basil, and a golden, crispy crust with a side of dipping sauce.",['20261015_1500'],Single
+What did the loaf of bread Hailey baked on October 16th look like?,"The loaf was golden and crusty with a rustic, artisan appearance, dusted with flour, and still steaming on a wire rack.",['20261016_1600'],Single
+"What did LiHua's pepperoni pizza look like during their last pizza night before October 17, 2026?","LiHua's pizza had bubbling golden cheese, crisp pepperoni slices, and was served with a cold glass of lemonade on a wooden table.",['20261017_1700'],Single
+What did the room look like during the last karaoke night YurikoYamamoto referenced before the upcoming Friday event?,"The room was warmly lit with colorful string lights, friends laughing and singing into microphones, empty pizza boxes and soda cans on the table, and a TV screen showing karaoke lyrics.",['20261019_1900'],Single
+"What did Li Hua's living room look like on October 19, 2026?","The living room was cozy with sunlight filtering through pale blue curtains over a wide window, matching light-colored walls and a comfortable sofa.",['20261019_2000'],Single
+"During Li Hua's play session on October 20, 2026, what was happening when she captured her favorite screenshot in 'Black Myth: Wukong'?","Wukong was mid-air with his staff raised, surrounded by swirling golden particles, facing a towering armored beast in a sunlit bamboo forest.",['20261020_1000'],Single
+"What were the workers doing in the scene from 'Chernobyl' that Li Hua shared on October 21, 2026?","The workers, dressed in heavy protective gear, were moving across the ruined power plant at night amid thick smoke and harsh spotlights, showing tense determination as they worked to contain the radiation.",['20261021_2100'],Single
+"How did Li Hua appear during her plank in the gym session before October 22, 2026?","Li Hua held a strong plank position on a yoga mat with focused determination on her face, surrounded by gym equipment and motivational posters.",['20261022_2200'],Single
+"How did the soccer players appear during the game on October 23, 2026?","The soccer players looked focused and determined, with some sprinting toward the ball and others preparing to defend under the late afternoon sun.",['20261023_2300'],Single
+"What did the newly renovated garden look like when Turalyon shared the update on October 24, 2026?","The garden had freshly planted flower beds in full bloom, neat grassy areas, wooden benches, and colorful tulips and daffodils lining the paths, with picnic blankets already spread out.",['20261024_1100'],Single
+"What did the view of Cinque Terre look like in the photo LiHua mentioned on October 25, 2026?","The view showed five pastel-colored villages perched on cliffs above the blue sea, with hiking trails, terraced vineyards, and colorful fishing boats in small harbors.",['20261025_1600'],Single
+Who were front and center celebrating in the 2011 Champions League final?,"Xavi and Iniesta were front and center, arms raised in triumph, with Messi being hugged by teammates.",['20261026_1600'],Single
+How is Eleven depicted among her friends during the dusk scene Lachlan described?,"Eleven stands slightly apart but is smiling as her friends look at her with encouragement and warmth, all illuminated by streetlights with the forest behind them.",['20261026_2000'],Single
+"What did the fruit basket Li Hua ordered for Adam on October 27, 2026 contain?","The fruit basket was filled with apples, pineapples, bananas, oranges, and grapes, arranged with decorative green leaves in a woven basket.",['20261027_1700'],Single
+What equipment did Jett include in their outdoor workout circuit at the end of October?,"Jett set up cones for sprints, a yoga mat for push-ups, a resistance band, and placed a water bottle beside a tree in a grassy park.",['20261028_1800'],Single
+"What did the band's rehearsal space look like during the jam session before October 29, 2026?","The rehearsal space was cozy and dimly lit, with musical instruments scattered around and the band smiling and laughing together in warm golden light.",['20261029_1000'],Single
+"What did Yuriko Yamamoto's bass setup look like on the night before October 30, 2026?","Her bass setup featured a sunburst-finish bass guitar on a stand next to a small amp, with music sheets and fairy lights creating a cozy atmosphere.",['20261030_1030'],Single
+What did the living room look like during ChaeSong-hwa and LiHua's jam session?,"The living room was cozy with warm sunlight, scattered sheet music, coffee mugs, and both of them holding guitars and laughing together.",['20261030_1400'],Single
+What did LiHua see when she encountered the Erdtree at sunset on October 30th?,"She saw the majestic Erdtree glowing gold against a dramatic sunset sky, with sprawling ruins and a lone player character standing on a hill.",['20261031_2100'],Single
+"What could be seen on the gym floor during Cypher's ladder drill demonstration on November 1, 2026?",A brightly colored agility ladder was laid out with a pair of sneakers mid-step and cones along with other workout equipment in the background.,['20261101_1100'],Single
+"What was happening during the moment Li Hua captured involving Micah Bell on November 2, 2026?","Micah Bell was standing in the camp at night, holding a gun, while the rest of the gang looked shocked and betrayed by his actions.",['20261102_1200'],Single
+"What scene did LiHua capture during their trip to Japan, as described on November 2, 2026?","LiHua captured a serene park with cherry blossoms in full bloom, a red wooden bridge over a pond, and people admiring the scenery.",['20261102_1400'],Single
+"What did the restaurant where LiHua and Wolfgang met on November 3rd, 2026 look like?","The restaurant was cozy and warmly lit, with wooden tables, checkered red-and-white tablecloths, and plates of creamy carbonara garnished with parsley.",['20261103_1300'],Single
+"What was placed on the side table in the basement on November 4, 2026?",A new air freshener was placed on the side table.,['20261104_1600'],Single
+What were Jennifer and Li Hua doing during their last session before the one scheduled for Tuesday?,"They were in workout gear, smiling and giving each other a high-five in a bright gym with exercise mats and dumbbells in the background.",['20261104_1800'],Single
+"How did Jake illustrate the offside rule to Li Hua on November 5th, 2026?","Jake used a diagram showing an attacking player ahead of the last defender and the ball, labeled as being in an offside position.",['20261105_1500'],Single
+"What did the soccer field look like on November 6th, 2026?","The field was green with crisp white goalposts, a few autumn leaves on the grass, and long golden shadows under a clear blue sky.",['20261106_2000'],Single
+"What did the soccer field look like during Jake and LiHua's last practice before November 9, 2026?","The soccer field was sunlit with green grass, a clear blue sky, players in action, and cones set up for drills along the sidelines.",['20261109_0900'],Single
+What time did the group plan to meet for their kick-around on Saturday before the big match weekend?,They planned to meet at 2 PM for the kick-around on Saturday.,['20261110_1000'],Single
+"What kind of fridge did LiHua find on November 10, 2026?",LiHua found a compact silver mini-fridge with a small freezer compartment and a minimalist design.,['20261110_1100'],Single
+"What new pushup record did Li Hua set on November 11, 2026?",Li Hua set a new record of 52 pushups.,['20261111_1200'],Single
+"What activity did Turalyon announce for the kids on November 12, 2026?",Turalyon announced a weekend tree planting activity for the kids.,['20261112_1400'],Single
+"What did LiHua's fast food order look like on November 13, 2026?","LiHua's order included a spicy chicken sandwich, a vanilla and strawberry swirl shake with a bright straw, and crispy fries in a red container.",['20261113_1300'],Single
+"What was visible on the lab bench when ChaeSong-hwa shared the photo on November 14, 2026?","A researcher in a white coat was pipetting a sample into test tubes, with a computer screen showing a colorful 3D diagram of brain cells in the background.",['20261114_1600'],Single
+"What did Arthur do for John and his family at the end of his story, as discussed on November 15, 2026?","Arthur gave John money to help his family, showing his redemption.",['20261115_1500'],Single
+What style of refrigerator did Li Hua show Adam before their shopping trip on Thursday?,"Li Hua showed a modern, stainless steel refrigerator with a top freezer and sleek handles.",['20261116_1600'],Single
+"What was happening in ThaneChambers' screenshot shared on November 17, 2026?","The main character Wukong was mid-leap with his staff extended, fiery embers swirling around, facing a massive mythical beast illuminated by lanterns and moonlight.",['20261117_1700'],Single
+"What scene did Saffron share to capture the mood of Westworld on November 17, 2026?","Saffron shared a striking view of Westworld's dusty plains at sunset, featuring a lone cowboy-hatted figure standing at the edge of an abandoned town.",['20261117_1900'],Single
+What did the badminton court look like when Wolfgang visited last week?,"The court was bright with polished wooden floors, white boundary lines, and sunlight streaming through large windows.",['20261118_1800'],Single
+"What did the traditional Chinese orchestra look like in the photo LiHua shared on November 18, 2026?","The orchestra was on a vibrant stage with musicians in colorful silk robes, playing instruments like the erhu, guzheng, and pipa, with red and gold lanterns glowing in the background.",['20261118_2000'],Single
+"How did the goalkeeper perform during the last game LiHua referenced on November 19, 2026?",The goalkeeper made an impressive diving save with arms fully extended toward the top corner of the net.,['20261119_1000'],Single
+"What did Li Hua's typical post-workout meal look like on November 20, 2026?","Li Hua's meal included grilled chicken breast, quinoa, steamed broccoli, sliced avocado, and a protein shake.",['20261120_2000'],Single
+What did the room look like during the last jam session with LiHua and WolfgangSchulz?,"The room was cozy with colorful string lights, two people laughing among musical instruments, and sheet music scattered on the table.",['20261121_2100'],Single
+"What does the refrigerator being delivered on November 24, 2026, look like?","It is a sleek, stainless steel refrigerator with French doors and a digital display on the front panel.",['20261123_2300'],Single
+"What did Li Hua share on November 24, 2026 to illustrate the spirit of playing 'Overcooked'?",Li Hua shared a screenshot of four colorful characters frantically cooking in a chaotic cartoon kitchen with ingredients and dishes flying everywhere.,['20261124_1400'],Single
+"What did Elara's favorite 'Manticore' Gwent card look like when she shared it on November 24, 2026?","The 'Manticore' card featured a fierce lion-bodied creature with a scorpion’s tail, bat-like wings, glowing golden eyes, and a stormy sky background highlighted in silver foil.",['20261124_1600'],Single
+"What did the Journey soundtrack album art look like when Yuriko shared it on November 25, 2026?","The album art showed a sunlit desert landscape with a lone red-robed figure atop a sand dune under a golden and pale blue sky, with the word 'Journey' elegantly displayed above.",['20261125_1500'],Single
+"What was Jim holding during his prank on Dwight as mentioned on November 26, 2026?","Jim was holding a clear bowl filled with yellow Jell-O, inside of which Dwight's stapler was suspended.",['20261126_1630'],Single
+What did ChaeSong-hwa's homemade avocado sushi rolls look like last weekend?,"They were neatly arranged on a white plate, filled with avocado, cucumber, and carrots, wrapped in nori and rice, with soy sauce and pickled ginger on the side.",['20261127_1700'],Single
+"How was Eric Clapton depicted during his classic performance shared by LiHua on November 28, 2026?","Eric Clapton was shown on stage, eyes closed in concentration, playing a sunburst Fender Stratocaster under a spotlight with a captivated audience in the shadows.",['20261128_1800'],Single
+What was Li Hua doing during last week's training session?,Li Hua was mid-pull-up at the gym with Jennifer cheering in the background.,['20261129_1900'],Single
+"According to the diagram Jake shared on November 30, 2026, how should a forward position themselves to avoid being offside?",The forward should stay level with the second-to-last defender and time their run as the ball is played.,['20261130_1130'],Single
+"What time did the group decide to meet for soccer practice on Saturday after the conversation on December 1, 2026?",The group decided to meet at 2 PM for soccer practice on Saturday.,['20261201_1201'],Single
+What did Adam's living room look like during the family board game night in December 2026?,"The living room was cozy at night with a family of four gathered around a coffee table covered in board game pieces, cards, and colorful tokens, with mugs of hot chocolate nearby.",['20261202_1202'],Single
+"What was Wolfgang doing during his last workout before December 2, 2026?","Wolfgang was mid-squat with a barbell in a modern gym, looking determined.",['20261202_1400'],Single
+"Which Call of Duty mission did LiHua mention as their favorite on December 3, 2026?",LiHua mentioned 'All Ghillied Up' as their favorite mission.,['20261203_1300'],Single
+"What did the meme LiHua shared on December 4, 2026, depict?","It showed a person wrapped in a blanket like a burrito, sitting in front of a TV surrounded by snacks, with the caption: 'Just one more episode... at 3 AM.'",['20261204_1400'],Single
+"What did YurikoYamamoto's snack look like on December 5th, 2026?","A small plate with bright orange carrot sticks arranged around a bowl of creamy hummus, garnished with parsley and lit by sunlight.",['20261205_1500'],Single
+"What was Li Hua wearing during her pull-up personal record on December 6, 2026?",Li Hua was wearing a bright blue workout top.,['20261206_1600'],Single
+"What did Gavriel's screenshot from 'The Last Guardian' on December 7, 2026, depict?",It showed Trico gently nudging the small protagonist across a moss-covered stone bridge with sunlight filtering through ancient ruins.,['20261207_1700'],Single
+"What did the team look like during their last game, as shown in Caspian's photo shared before the practice on December 7, 2026?","The group stood together on the soccer field at sunset, arms around each other’s shoulders, all smiling in their team jerseys with a soccer ball at their feet and stadium lights starting to glow in the background.",['20261207_2000'],Single
+"What did the infographic LiHua shared on December 8, 2026, illustrate about AI in drug discovery?","The infographic showed a flowchart of AI's role in data analysis, molecular modeling, and clinical trials, with visuals of DNA strands and a human silhouette to emphasize personalized medicine.",['20261208_1200'],Single
+What did Li Hua's photo from last year's festival show?,"The photo showed a lively outdoor music festival with a crowd in colorful outfits, bright lights, a big stage, and friends laughing together, some wearing face paint and flower crowns.",['20261208_1800'],Single
+"What did LiHua have for breakfast on the morning of December 9, 2026?","LiHua had a bowl with sliced strawberries and bananas, creamy yogurt, granola on top, and a glass of orange juice.",['20261209_1900'],Single
+"What did the Pied Piper team's office look like in the screenshot LiHua found on December 10, 2026?","The office was cluttered, with five people huddled around laptops, pizza boxes and empty coffee cups on the table, and whiteboards filled with diagrams and code.",['20261210_1000'],Single
+"What kind of foam roller did LiHua have on December 11, 2026?",LiHua had a textured black foam roller set up on a yoga mat.,['20261211_1100'],Single
+"What was the atmosphere like at last year's music festival, according to the photo ChaeSong-hwa shared on December 12, 2026?","The festival had a lively crowd in front of a brightly-lit stage with multicolored lights, friends laughing and enjoying the music, and food stalls set against a golden sunset.",['20261212_1200'],Single
+"What kind of atmosphere did LiHua's workout inspiration convey during the conversation on February 4, 2026?","The atmosphere was energetic and focused, with motivational quotes on the walls and people actively working out.",['20260204_1500'],Single
+"How did LiHua organize her workout space on February 4, 2026?","LiHua arranged a bright, tidy home gym corner with a yoga mat, colorful dumbbells, a jump rope on the wall, and a water bottle next to a small plant.",['20260204_1600'],Single
+"What did Li Hua's workout space look like on February 5th, 2026?","Li Hua's workout space featured a yoga mat, dumbbells, a resistance band, and a water bottle arranged in a sunny, cozy corner of the living room.",['20260205_1300'],Single
+"What did Jennifer's foam roller setup look like on the morning of February 6, 2026?","Jennifer's setup included a bright blue foam roller, a yoga mat, and a water bottle arranged neatly on a wooden floor with soft morning sunlight streaming in.",['20260206_1600'],Single
+What was the group doing during last week's warm-up session shared by Jett?,"The group was in a brightly lit gym performing jumping jacks, high knees, and stretches, with everyone wearing colorful athletic wear.",['20261214_1200'],Single
+"What style did LiHua want for the basement as of December 14, 2026?",LiHua wanted a cozy basement corner with several potted plants and string lights.,['20261214_1400'],Single
+What was the setting like during the group's five-a-side match last month?,"The match took place on bright green turf under a clear blue sky, with the city skyline in the background and everyone wearing colorful jerseys.",['20261215_1500'],Single
+"What was happening in the kitchen scene from 'The Bear' that Emily shared on December 16, 2026?","Carmy was juggling multiple orders while another chef spilled a tray of ingredients, creating a chaotic yet humorous atmosphere.",['20261216_1600'],Single
+"What type of exercise did Jennifer suggest to Li Hua on December 17, 2026?","Jennifer suggested gentle arm stretches on a yoga mat in a calm, tidy room.",['20261217_1700'],Single
+"Which brain regions were highlighted in the diagram Li Hua shared on December 18, 2026?","The diagram highlighted the hippocampus, prefrontal cortex, and amygdala.",['20261218_1800'],Single
+What did Wolfgang Schulz's previous visit to Hong Kong at night look like?,"The scene was a bustling street with neon Chinese signs, lively crowds, street vendors selling snacks and trinkets, and double-decker trams passing by.",['20261219_1900'],Single
+What did Wolfgang Schulz's photo of Hong Kong at dusk feature during his previous visit?,"It featured a bustling street scene with neon signs, crowds, double-decker trams, skyscrapers, and city lights reflecting off wet pavement.",['20261220_2000'],Single
+What did the rehearsal studio look like during the band's session last week?,"The studio was cozy with warm lighting, scattered sheet music, and instruments set up in a semicircle as the group laughed together mid-song.",['20261221_1200'],Single
+What new features were mentioned for the garden area during the Christmas events planned for December 2026?,The garden area featured new benches and freshly planted flowers.,['20261221_2100'],Single
+"How was LiHua's form during her workout on December 22, 2026?",LiHua demonstrated proper posture and a focused expression while lifting a dumbbell.,['20261222_2200'],Single
+"What did Wolfgang Schulz see when he arrived in Hong Kong on December 23, 2026?","He saw the sparkling nighttime skyline with neon signs, vibrant lights, and busy streets around Victoria Harbour.",['20261223_2300'],Single
+"Which Christmas songs did the band decide to include in their setlist on December 24, 2026?",The band decided to include 'Last Christmas' and 'Jingle Bells' in their setlist.,['20261224_1400'],Single
+"Which game did Bronwyn mention for its Gothic architecture and atmospheric visuals during the conversation on December 25, 2026?",Bronwyn mentioned 'Resident Evil Village' for its Gothic architecture and atmospheric visuals.,['20261225_1500'],Single
+What did Yuriko's classroom look like during her music therapy session in December 2026?,"The classroom was cozy and brightly lit, with toddlers sitting in a circle on a colorful mat while Yuriko played guitar and the children clapped and sang along, surrounded by musical instruments.",['20261226_2000'],Single
+"What did the gift from ChaeSong-hwa look like on December 27, 2026?",The gift was a small box wrapped in red paper with gold stars and decorated with a sprig of holly.,['20261227_1000'],Single
+What did Wolfgang Schulz's favorite photo from his Hong Kong trip show at dusk?,"It showed Hong Kong's skyline with skyscrapers lit up, glowing city lights reflected on the harbor, and Victoria Peak under a pink and purple sky.",['20261228_1000'],Single
+What did the city street look like in ThaneChambers' favorite scene from The Last of Us?,"The city street was overgrown and abandoned, with sunlight filtering through broken windows and tangled vines.",['20261228_1400'],Single
+What was the scene like at the group's last soccer practice session?,"Everyone was smiling on a grassy field at sunset, some juggling soccer balls while others chatted near backpacks and water bottles, with goalposts visible in the distance.",['20261228_1600'],Single
+What was happening in the park last weekend according to LiHua?,"A golden retriever was wandering off-leash near a group of children playing soccer, with some kids appearing startled.",['20261229_1900'],Single
+"What was depicted in Helios's favorite moment from 'Dishonored' shared on December 29, 2026?","The protagonist was mid-leap with guards frozen by the time-stop ability, a clock tower in the background, and the city streets dimly lit.",['20261229_2030'],Single
+What did Jennifer's home workout setup look like during the Christmas holidays in 2026?,"Jennifer's setup featured an exercise mat, dumbbells, and a workout checklist in a bright, sunlit living room.",['20261230_1230'],Single
+What was Wolfgang doing during the band's last jam session before the new year?,"Wolfgang was behind the drum kit, laughing with the rest of the band.",['20261230_1500'],Single
+"What was the atmosphere like at last year's band gathering, according to the photo ChaeSong-hwa shared?","The atmosphere was warm and joyful, with band members smiling and laughing in a cozy living room decorated with twinkling string lights and festive decorations.",['20261231_1231'],Single
+What did the ski resort look like last weekend when LiHua visited?,"The ski resort had a snowy mountain slope under a clear blue sky, with skiers carving paths through fresh powder and tall pine trees lining the edges.",['20260209_2100'],Single
+"What meme did LiHua share on February 10, 2026, to describe the struggles of software development?",A meme showing a frustrated man next to a computer with the text 'when the code doesn't work... but you have no idea why'.,['20260210_2100'],Single
+"What kind of guitar was LiHua considering on February 11, 2026?","LiHua was considering a sleek, sunburst electric guitar with a polished wood finish.",['20260211_1700'],Single
+What motivational quote did LiHua share before the training session scheduled for Friday?,Push yourself because no one else is going to do it for you.,['20260211_1900'],Single
+"What did the music store look like when LiHua visited on February 13, 2026?","The store had rows of gleaming acoustic guitars hanging on wooden walls, with warm sunlight and a cozy corner with stools for trying them out.",['20260213_1000'],Single
+"What ingredients did LiHua include in her meal on February 13, 2026?","LiHua's meal included quinoa, mixed veggies like red bell peppers, broccoli, carrots, and grilled chicken slices, garnished with fresh herbs.",['20260213_1245'],Single
+What did LiHua observe during her last hiking trip?,"LiHua saw a mossy forest floor with beetles, ants, and a bright green caterpillar among the leaves and twigs.",['20260213_1900'],Single
+"What brand and features did Li Hua consider for her protein powder on February 14, 2026?","Li Hua considered 'Pure Whey Protein – Vanilla,' which has no added sugars and 24g protein per serving.",['20260214_1600'],Single
+"What did Li Hua's practice setup look like on February 16, 2026?","Li Hua's practice setup featured a classical guitar on a stand, a small amplifier, sheet music on a side table, and soft lighting from a nearby lamp.",['20260216_1000'],Single
+"What musical instruments were visible in Adam's basement when Li Hua arranged to pick up the key on February 19, 2026?","There was a drum set, a keyboard stand, and several guitar cases in the basement.",['20260218_1800'],Single
+"What did the basement key look like on February 19, 2026?",It was a small silver key with a blue plastic tag labeled 'Basement' resting on a wooden table.,['20260219_0800'],Single
+"What kind of decorations did Li Hua propose for the basement on February 19, 2026?","Li Hua proposed adding gray, hexagonal sound-insulating pads arranged in a modern pattern to the basement wall.",['20260219_2000'],Single
+"What did the basement look like on February 19, 2026, when LiHua first found it?","The basement was spacious and unfinished, with exposed brick walls, a concrete floor, a small window, old chairs, and storage boxes in the corner.",['20260219_2010'],Single
+"What did Li Hua's music setup look like on the night of February 19, 2026?","Li Hua's setup included a guitar on a stand, a small amplifier, headphones, and sheet music on a desk lit by a warm desk lamp.",['20260219_2200'],Single
+"How was Li Hua's basement music space set up on February 21, 2026?","The basement featured warm lighting, a red electric guitar on a stand, a small amplifier, a drum kit in the corner, classic rock band posters on the walls, a comfy couch, and a rug in the middle.",['20260221_1500'],Single
+"What did the living room look like during the jam session on February 22, 2026?","The living room was cozy with a drum set in the corner, an electric guitar by the sofa, sheet music on the coffee table, and sunlight streaming in.",['20260222_1900'],Single
+"What kind of therapy room did Li Hua suggest for Yuriko's studio on February 23, 2026?","A bright and airy room with colorful posters, a shelf of children’s books, and a welcoming table where a smiling speech therapist sits with a laughing child.",['20260223_1500'],Single
+"What updates were visible in the basement on February 23, 2026?","The basement had freshly painted white walls, new recessed lighting, and stacks of wooden flooring panels arranged along one wall.",['20260223_1700'],Single
+What did Central Perk café look like last week according to Yuriko Yamamoto?,"Central Perk café had brick walls, comfy armchairs, small wooden tables, a big window with soft sunlight, and a counter decorated with fresh flowers and pastries.",['20260225_1500'],Single
+What did the coffee shop look like during Li Hua and Yuriko's last brainstorming session?,"It was a cozy space with sunlight streaming through a large window, where they sat at a small round table with laptops, notebooks, and colorful pens.",['20260226_1700'],Single
+"What did LiHua's pedalboard setup look like on February 27, 2026?","LiHua's pedalboard was neatly arranged with colorful overdrive, delay, and reverb pedals connected by patch cables, with a sunburst electric guitar leaning against a small amplifier in the background.",['20260227_1200'],Single
+How was the basement set up for Li Hua's guitar practice in February 2026?,"The basement featured a cozy corner with a standing lamp, a guitar on a stand next to a small amplifier, a music stand with sheet music, and a patterned rug on the floor.",['20260227_1830'],Single
+"What did the neighborhood street look like on February 29th, 2026?","The street was lined with cherry blossom trees in full bloom, with people strolling and cafes offering outdoor seating under pink petals.",['20260301_1000'],Single
+"What was seen near the pipes in the basement on the night before March 1, 2026?",There was a small puddle of water on the concrete floor and slight discoloration on the wall near the exposed pipes.,['20260301_1300'],Single
+What did the concert venue look like during the show last year?,"The concert venue was a cozy indoor hall with warm lighting, a small stage set up with instruments, and a lively crowd gathered closely together.",['20260302_1800'],Single
+What did Li Hua's pasta salad look like at the picnic last month?,"It was a large bowl of spiral pasta with cherry tomatoes, diced cucumbers, black olives, and fresh basil tossed in vinaigrette.",['20260302_1845'],Single
+What did Yuriko Yamamoto’s homepage sketch look like before the meeting on March 6th?,"The sketch showed a prominent header, a large hero image space, three evenly spaced feature boxes, a clean navigation bar, and handwritten notes on colors and button placement.",['20260303_0930'],Single
+What did the community garden look like during last year's cleanup event?,"The garden was lush with blooming flowers and fresh vegetables, and volunteers worked together with tools and gloves among colorful banners.",['20260304_0945'],Single
+"What did the pasta salad look like before the potluck dinner on March 4, 2026?","The pasta salad was a colorful mix of spiral noodles, cherry tomatoes, black olives, diced bell peppers, and fresh herbs in a large bowl.",['20260304_1700'],Single
+"What was ChaeSong-hwa doing during the potluck on March 4, 2026?","ChaeSong-hwa was singing in front of a small group with a microphone, while people smiled and clapped.",['20260304_2050'],Single
+"How did Li Hua's stamina change over the past month as shown on the progress chart shared on March 5, 2026?","Li Hua's stamina showed a steady upward trend over the past month, with increasing workout durations and intensity.",['20260305_1700'],Single
+Where did LiHua reserve a table for the meeting on March 6th?,LiHua reserved a cozy corner table by the window with two comfy armchairs and a vase of fresh flowers.,['20260306_1300'],Single
+What did the blog homepage example Yuriko shared on March 7th look like?,"It featured a clean, modern layout with a welcoming header, a bright photo of a smiling child holding a musical instrument, and a sidebar listing recent posts and categories, all in soft pastel colors and friendly fonts.",['20260307_1300'],Single
+What information did the building management's notice provide for March 8th?,The notice announced a scheduled power outage from 2pm to 3pm and reminded residents to unplug sensitive equipment.,['20260307_1445'],Single
+"What did the exterior of Main Street Bistro look like on March 7, 2026?","The restaurant had a cozy brick exterior with warm lights glowing through large windows, a stylish 'Main Street Bistro' sign, and a few people gathered near the entrance.",['20260307_1500'],Single
+"What did the notice in the lobby say on March 8, 2026?",The notice announced a scheduled power outage from 2pm to 3pm and asked residents to plan accordingly.,['20260308_1300'],Single
+Where do LiHua and WolfgangSchulz's like to hang out?,"Inviting cafes, a restaurant, scenic riverside paths, and a forest trail.","['20260105_1100', '20260123_1700', '20260307_1500', '20260813_1730', '20260110_1400']",Multi
+What do the shared images throughout the conversations illustrate about the website design process for Yuriko's studio homepage?,"The images chronicle the collaborative website design process, showing initial hand-drawn homepage sketches, a cozy brainstorming session at a café, and a final polished homepage screenshot, highlighting teamwork and creative development.","['20260309_0900', '20260303_0930', '20260317_1530', '20260226_1700']",Multi
+What do the shared images throughout Hailey and Li Hua's conversation highlight about Hailey's bakery and delivery service?,"The images showcase fresh, artisanal breads and milk, inviting bakery scenes, and friendly staff, emphasizing the quality, warmth, and personal touch of Hailey's doorstep delivery service.","['20260314_1700', '20260317_0800', '20260413_2100', '20260318_1500', '20260329_1300']",Multi
+What types of goods are sold at Haileys bakery?,"Artisanal sourdough loaves, a bottle of fresh milk, freshly baked cinnamon rolls with icing, a rustic golden loaf cooling in a bakery, and an assortment of healthy breads including seeded and whole grain varieties.","['20260317_0800', '20260331_1400', '20260314_1700', '20261016_1600', '20260622_1330']",Multi
+What do the shared images throughout the conversations reveal about the group's jam sessions and overall dynamic?,"The images depict a close-knit group of friends joyfully making music together in cozy, inviting spaces, highlighting their creativity, camaraderie, and the fun, energetic atmosphere of their jam sessions.","['20260324_1200', '20260624_1400', '20260625_1900', '20260410_1100', '20260416_2100']",Multi
+What do the shared images in Jennifer and Li Hua’s conversations reveal about Li Hua’s fitness journey and progress?,"The images show Li Hua’s organized home workout space, a structured weekly exercise plan, and a progress chart tracking increased stamina, illustrating her commitment, motivation, and steady improvement in fitness.","['20260325_1900', '20260205_1300', '20260305_1700']",Multi
+What do the shared images in Adam and Li Hua's conversation depict regarding their rent payment process?,"The images show screenshots of banking app interfaces used to share payment details, confirm transfer information, and verify successful rent payments between Adam and Li Hua.","['20260330_1800', '20260601_1600', '20260130_1000']",Multi
+What do the shared images reveal about Li Hua's process of settling into the apartment and personalizing her living space?,"The images show Li Hua making the apartment feel like home by organizing and decorating her living room and bedroom with cozy furniture, plants, and tasteful touches like curtains, creating a bright and inviting atmosphere.","['20260331_1700', '20260110_2100', '20260105_1400', '20261019_2000']",Multi
+What types of desserts are available at HaileyJohnsons bakery?,"A variety of desserts including assorted pastries like raspberry tarts and macarons, artisanal donuts with different glazes, a golden-brown raspberry tart, sprinkled cake donuts, red velvet New York cheesecake, and colorful scoops of mango and coconut ice cream with fruit-topped pastries.","['20260418_1500', '20260712_1600', '20260418_1530', '20260714_1200', '20260514_1400']",Multi
+What do the shared images throughout the conversations reveal about the progress and atmosphere of the community garden renovation project?,"The images showcase the transformation from planning to implementation, highlighting inviting benches surrounded by colorful flower beds, collaborative design plans, and a lively, welcoming atmosphere that reflects the community’s collective efforts to create a vibrant and inclusive garden space.","['20260427_1030', '20261013_1330', '20260516_1000', '20260518_1000', '20260604_1800']",Multi
+What healthy meal and snack ideas are shared between LiHua and JenniferMoore?,"Nutritious options including a dinner of baked salmon with quinoa and broccoli, a colorful smoothie bowl topped with fresh fruit and granola, and a Greek yogurt snack with berries, honey, and nuts.","['20260115_1645', '20260804_1400', '20260122_1500']",Multi
+What restaurant cuisine and dishes do Wolfgang and LiHua like to eat together?,Delicious pasta dishes at Italian restaurants.,"['20260523_1400', '20260428_1830', '20261103_1300', '20260514_2200', '20260430_1700']",Multi
+What type of food establishment and dish are repeatedly featured the conversation between LiHua and WolfgangSchulz?,Gourmet burgers and fries served in modern burger restaurants.,"['20260121_1300', '20260805_1600', '20260108_1100', '20260122_1700', '20261103_1300']",Multi
+What types of post-workout recovery tools and exercises are depicted in the shared images throughout the conversations between LiHua and JenniferMoore?,"The images show people performing post-workout stretches, using foam rollers for muscle recovery, and practicing agility drills with an agility ladder, all in well-lit workout settings.","['20260811_1100', '20260206_1600', '20261101_1100', '20261211_1100']",Multi
+What types of exercises are highlighted in the gym photos of Li Hua shared by Jennifer throughout their training conversations?,"The photos show Li Hua performing bench presses, deadlifts, and pull-ups, capturing her progress, determination, and focus during different strength training sessions.","['20260924_2000', '20260930_1400', '20260417_1200', '20261206_1600', '20261129_1900']",Multi
+"Based on the shared screenshots, what stands out most visually in the games ""Black Myth: Wukong"" and ""Overcooked"" as discussed by Thane and Li Hua?","The screenshots highlight ""Black Myth: Wukong"" for its stunning, atmospheric visuals with detailed character designs and epic battle scenes, while ""Overcooked"" is depicted with vibrant, chaotic, and cartoonish kitchen action, emphasizing each game's unique and immersive art style.","['20261020_1000', '20261124_1400', '20261001_2000']",Multi
