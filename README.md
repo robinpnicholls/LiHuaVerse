@@ -25,7 +25,9 @@ All conversations and images are **synthetically generated** to preserve privacy
 
 ---
 
-## 📊 Benchmark Results  
+## 📊 Benchmark Results
+
+![Benchmark Results](https://github.com/robinpnicholls/LiHuaVerse/blob/main/all_metrics_grouped_bar.png)
 
 The following table reports baseline results on **LiHuaVerse** using a range of vision–language models (VLLMs) with *k = 3* retrieved documents.  
 
